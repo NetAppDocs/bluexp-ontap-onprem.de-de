@@ -85,7 +85,7 @@ Die standardmäßige "mgmt"-Firewall-Richtlinie ermöglicht eingehenden HTTPS-Zu
 .Schritte
 . Wählen Sie im Navigationsmenü die Option *Storage > Canvas* aus.
 . Klicken Sie auf der Seite Arbeitsfläche auf *Arbeitsumgebung hinzufügen* und wählen Sie *On-Premises*.
-. Wählen Sie *On-Premise ONTAP*.
+. Wählen Sie neben dem On-Premises-ONTAP *Discover*.
 . Wenn Sie dazu aufgefordert werden, erstellen Sie einen Konnektor.
 +
 Weitere Einzelheiten finden Sie in den oben genannten Anforderungen.
@@ -132,7 +132,7 @@ Die standardmäßige "mgmt"-Firewall-Richtlinie ermöglicht eingehenden HTTPS-Zu
 .Schritte
 . Wählen Sie im Navigationsmenü die Option *Storage > Canvas* aus.
 . Klicken Sie auf der Seite Arbeitsfläche auf *Arbeitsumgebung hinzufügen* und wählen Sie *On-Premises*.
-. Wählen Sie *Lokales ONTAP (direkt)* aus.
+. Wählen Sie neben Local On-Premises ONTAP (direkt) die Option *Discover*.
 . Geben Sie die Cluster-Management-IP-Adresse, das Passwort für das Admin-Benutzerkonto ein, und klicken Sie auf *Hinzufügen*.
 
 
