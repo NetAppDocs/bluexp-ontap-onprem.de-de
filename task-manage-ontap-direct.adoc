@@ -26,9 +26,15 @@ link:reference-limitations.html["Überprüfen Sie die Liste der Einschränkungen
 
 .Schritte
 . Doppelklicken Sie auf der Seite „Arbeitsfläche“ auf den Namen einer ONTAP-Arbeitsumgebung vor Ort.
-. Geben Sie bei der entsprechenden Eingabeaufforderung Ihre ONTAP-Anmeldedaten ein.
 +
-Sie müssen sich bei jedem Öffnen der Arbeitsumgebung mit Ihren ONTAP-Anmeldeinformationen anmelden. Sie haben die Möglichkeit, die Anmeldeinformationen zu speichern, damit Sie sie nicht jedes Mal eingeben müssen. Wenn Sie diese Option verwenden, werden die Anmeldeinformationen ausschließlich Ihrem BlueXP-Benutzer zugeordnet. Sie werden nicht von anderen Personen in Ihrem Konto gespeichert.
+Das Symbol der Arbeitsumgebung identifiziert direkt erkannte Cluster:
+
++
+image:screenshot-direct-discovery-we.png["Ein Screenshot des Symbols für die Arbeitsumgebung, das auf der Arbeitsfläche angezeigt wird"]
+
+. Geben Sie bei der entsprechenden Aufforderung Ihre ONTAP-Anmeldedaten ein.
++
+Sie werden aufgefordert, sich bei jedem Öffnen der Arbeitsumgebung mit Ihren ONTAP-Anmeldedaten anzumelden, wenn Sie die Anmeldedaten nicht speichern. Sie haben die Möglichkeit, die Anmeldeinformationen zu speichern, damit Sie sie nicht jedes Mal eingeben müssen. Wenn Sie diese Option verwenden, werden die Anmeldeinformationen ausschließlich Ihrem BlueXP-Benutzer zugeordnet. Sie werden nicht von anderen Personen in Ihrem Konto gespeichert.
 
 +
 image:screenshot-credentials.png["In einem Screenshot, der die Eingabeaufforderung angezeigt wird, um den Benutzernamen und das Passwort für ein ONTAP Cluster einzugeben."]

@@ -16,6 +16,12 @@ summary: Wenn Sie das erweiterte Management eines ONTAP On-Premises-Clusters dur
 [role="lead"]
 Wenn Sie einen ONTAP-Cluster vor Ort mithilfe eines Connectors entdeckt haben, können Sie Volumes aus der Standardansicht erstellen, System Manager in der Erweiterten Ansicht verwenden und BlueXP-Datenservices aktivieren.
 
+Auf dem Bildschirm sollte das Symbol der Arbeitsumgebung für einen Cluster, den Sie mit einem Konnektor erkannt haben, ähnlich wie das folgende aussehen:
+
+image:screenshot-connector-we.png["Ein Screenshot des Symbols für die Arbeitsumgebung, das auf der Arbeitsfläche angezeigt wird"]
+
+Wenn eine Arbeitsumgebung direkt erkannt wurde, enthält das Symbol „direkt“ das Wort „direkt“.
+
 
 
 == Erstellen Sie Volumes in der Ansicht Standard

@@ -14,7 +14,29 @@ summary: Lernen Sie die Neuerungen bei On-Prem ONTAP Cluster Management in BlueX
 
 
 [role="lead"]
-Neue Funktionen für On-Prem ONTAP Cluster Management in BlueXP (ehemals Cloud Manager)
+Lernen Sie die Neuerungen bei On-Prem ONTAP Cluster Management in BlueXP kennen.
+
+
+
+== Bis 3. April 2023
+
+
+
+=== Einzelne Erkennungsoption über die BlueXP Konsole
+
+Wenn Sie ein On-Premises-ONTAP-Cluster über die BlueXP Konsole erkennen, erhalten Sie jetzt eine einzelne Option:
+
+image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-ontap-onprem/main/media/screenshot-discover-on-prem-ontap.png["Ein Screenshot, der die Option On-Premises-ONTAP ermitteln anzeigt, die beim Erstellen einer Arbeitsumgebung verfügbar ist"]
+
+Zuvor gab es separate Ströme für die direkte Erkennung und für die Erkennung mit einem Connector. Beide Optionen sind weiterhin verfügbar, aber in einem einzigen Fluss zusammengefasst.
+
+Wenn Sie die Erkennung starten, erkennt BlueXP den Cluster wie folgt:
+
+* Wenn Sie über einen aktiven Connector verfügen, der mit Ihrem ONTAP-Cluster verbunden ist, verwendet BlueXP diesen Connector, um das Cluster zu erkennen und zu managen.
+* Wenn Sie keinen Connector haben oder Ihr Connector keine Verbindung zum ONTAP-Cluster hat, verwendet BlueXP automatisch die Option für direkte Erkennung und Management.
+
+
+https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["Erfahren Sie mehr über die Erkennungs- und Managementoptionen"].
 
 
 
