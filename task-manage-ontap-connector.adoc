@@ -218,36 +218,42 @@ Wenn Sie Hilfe bei der Verwendung von System Manager mit ONTAP benötigen, finde
 
 == Aktivieren Sie BlueXP-Datenservices
 
-Nutzen Sie BlueXP Datenservices in Ihren Arbeitsumgebungen, um Daten zu replizieren, zu sichern, zu scannen und zu Ebenen.
+BlueXP Datenservices lassen sich in Ihren Arbeitsumgebungen aktivieren, um Daten zu replizieren, Daten zu sichern, Daten-Tiers zu verschieben und vieles mehr.
 
+Datenreplizierung:: Daten zwischen Cloud Volumes ONTAP Systemen, Amazon FSX for ONTAP Filesystemen und ONTAP Clustern replizieren Unternehmen haben die Wahl zwischen einer einmaligen Datenreplizierung, mit der sie Daten in die und aus der Cloud verschieben können, oder einem regelmäßigen Zeitplan, der bei der Disaster Recovery oder der langfristigen Datenaufbewahrung helfen kann.
++
+--
+https://docs.netapp.com/us-en/cloud-manager-replication/task-replicating-data.html["Replizierungsdokumentation"^]
 
+--
+Daten sichern:: Mithilfe von Cloud Backup können Sie Daten von einem lokalen ONTAP System auf kostengünstigen Objekt-Storage in der Cloud sichern.
++
+--
+https://docs.netapp.com/us-en/cloud-manager-backup-restore/concept-backup-to-cloud.html["Dokumentation für Cloud-Backup"^]
 
-=== Datenreplizierung
+--
+Scannen, Zuordnen und Klassifizieren Sie Ihre Daten:: Scannen Sie die On-Premises-Cluster Ihres Unternehmens, um Daten zuzuordnen, zu klassifizieren und private Informationen zu identifizieren. Auf diese Weise reduzieren Sie Sicherheits- und Compliance-Risiken, senken die Storage-Kosten und unterstützen Ihre Datenmigrationsprojekte.
++
+--
+https://docs.netapp.com/us-en/cloud-manager-data-sense/concept-cloud-compliance.html["Cloud Data Sense Dokumentation"^]
 
-Sie können Daten zwischen Cloud Volumes ONTAP Systemen und ONTAP Clustern replizieren, indem Sie sich für eine einmalige Datenreplizierung entscheiden, mit der Sie Daten in die und aus der Cloud verschieben können, oder für einen wiederkehrenden Zeitplan, der zur Disaster Recovery oder langfristigen Aufbewahrung beitragen kann.
+--
+Tiering von Daten in die Cloud:: Erweitern Sie Ihr Datacenter in die Cloud, indem Sie inaktive Daten automatisch von ONTAP Clustern auf Objekt-Storage mithilfe von Cloud-Tiering verschieben.
++
+--
+https://docs.netapp.com/us-en/cloud-manager-tiering/concept-cloud-tiering.html["Dokumentation für das Cloud-Tiering"^]
 
-https://docs.netapp.com/us-en/cloud-manager-replication/task-replicating-data.html["Erfahren Sie, wie Daten repliziert werden"^]
+--
+Aufrechterhaltung von Systemzustand, Uptime und Performance:: Implementierung vorgeschlagener Korrekturmaßnahmen für ONTAP-Cluster, bevor es zu einem Ausfall oder Ausfall kommt.
++
+--
+https://docs.netapp.com/us-en/bluexp-operational-resiliency/index.html["Dokumentation der betrieblichen Ausfallsicherheit"^]
 
+--
+Identifizierung von Clustern mit geringer Kapazität:: Ermitteln Sie Cluster mit geringer Kapazität, prüfen Sie Cluster auf aktuelle und prognostizierte Kapazität und vieles mehr.
++
+--
+https://docs.netapp.com/us-en/bluexp-economic-efficiency/index.html["Dokumentation der wirtschaftlichen Effizienz"^]
 
+--
 
-=== Daten sichern
-
-Mit Cloud Backup lassen sich Daten-Backups von lokalen ONTAP Systemen auf kostengünstigen Objekt-Storage in der Cloud erstellen. Dieser Service bietet Backup- und Restore-Funktionen zum Schutz und zur langfristigen Archivierung Ihrer On-Premises- und Cloud-Daten.
-
-https://docs.netapp.com/us-en/cloud-manager-backup-restore/concept-backup-to-cloud.html["Daten-Backups in der Cloud erstellen und"^]
-
-
-
-=== Scannen, Zuordnen und Klassifizieren Sie Ihre Daten
-
-Cloud Data Sense kann die On-Premises-Cluster Ihres Unternehmens scannen, um Daten zuzuordnen und zu klassifizieren, und private Informationen zu identifizieren. Auf diese Weise reduzieren Sie Sicherheits- und Compliance-Risiken, senken die Storage-Kosten und unterstützen Ihre Datenmigrationsprojekte.
-
-https://docs.netapp.com/us-en/cloud-manager-data-sense/concept-cloud-compliance.html["Lernen Sie, Ihre Daten zu scannen, zu mappen und zu klassifizieren"^]
-
-
-
-=== Tiering von Daten in die Cloud
-
-Erweitern Sie Ihr Datacenter in die Cloud, indem Sie inaktive Daten automatisch von ONTAP Clustern auf Objekt-Storage mithilfe von Cloud-Tiering verschieben.
-
-https://docs.netapp.com/us-en/cloud-manager-tiering/concept-cloud-tiering.html["Tiering von Daten in die Cloud –"^]
