@@ -14,7 +14,7 @@ summary: Lokale ONTAP-Cluster aus BlueXP entdecken, um Volumes zu managen und er
 
 
 [role="lead"]
-Lokale ONTAP-Cluster aus BlueXP entdecken, um Volumes zu managen und erweitertes Management mit ONTAP System Manager, das von BlueXP erhältlich ist, durchzuführen.
+Lokale ONTAP-Cluster aus BlueXP entdecken, um Volumes zu managen und erweitertes Management mit ONTAP System Manager, der über BlueXP erhältlich ist, durchzuführen.
 
 
 
@@ -27,7 +27,7 @@ Erkennung über einen Konnektor:: Mit dieser Option können Sie Cluster mit ONTA
 --
 * Die Ansicht „Standard“, die grundlegende Volume-Vorgänge bereitstellt
 * Die erweiterte Ansicht für Management über System Manager (unterstützt von ONTAP 9.10.0 und höher)
-* Integration in BlueXP Datenservices für Datenreplizierung, Backup und Recovery, Datenklassifizierung und Daten-Tiering
+* Integration in BlueXP Services für Datenreplizierung, Backup und Recovery, Datenklassifizierung und Daten-Tiering
 
 
 Für diese Option ist ein Connector erforderlich, den Sie bei einem Cloud-Provider oder bei Ihnen vor Ort installieren können.
@@ -80,7 +80,7 @@ Wenn kalte Daten in die Cloud verschoben werden sollen, sollten Sie die Anforder
 +
 ** https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["Erfahren Sie mehr über Steckverbinder"^]
 ** https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-managing-connectors.html["Wechseln zwischen den Anschlüssen"^]
-** https://docs.netapp.com/us-en/cloud-manager-tiering/concept-cloud-tiering.html["Erfahren Sie mehr über Cloud Tiering"^]
+** https://docs.netapp.com/us-en/cloud-manager-tiering/concept-cloud-tiering.html["Weitere Informationen zu BlueXP Tiering"^]
 
 
 * Der Connector-Host muss ausgehenden HTTPS-Zugriff über Port 443 ermöglichen.

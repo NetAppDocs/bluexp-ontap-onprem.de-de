@@ -31,7 +31,7 @@ Bei der Option Direct Discovery werden Sie aufgefordert, sich bei jedem Öffnen 
 
 * Cloud-Backup-Aktivierung
 +
-Cloud Backup in einem lokalen Cluster direkt aus dem Cloud Backup aktivieren https://docs.netapp.com/us-en/cloud-manager-backup-restore/concept-ontap-backup-to-cloud.html["Erste Schritte"^]
+Cloud Backup kann direkt aus dem Backup und Recovery von BlueXP auf einem lokalen Cluster aktiviert werden. https://docs.netapp.com/us-en/cloud-manager-backup-restore/concept-ontap-backup-to-cloud.html["Erste Schritte"^]
 
 * On-Demand-Upgrades
 +

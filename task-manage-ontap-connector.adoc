@@ -14,7 +14,7 @@ summary: Wenn Sie das erweiterte Management eines ONTAP On-Premises-Clusters dur
 
 
 [role="lead"]
-Wenn Sie einen ONTAP-Cluster vor Ort mithilfe eines Connectors entdeckt haben, können Sie Volumes aus der Standardansicht erstellen, System Manager in der Erweiterten Ansicht verwenden und BlueXP-Datenservices aktivieren.
+Wenn Sie ein lokales ONTAP-Cluster mithilfe eines Connectors erkannt haben, können Sie Volumes aus der Standardansicht erstellen, System Manager in der erweiterten Ansicht verwenden und BlueXP Datenservices aktivieren.
 
 Auf dem Bildschirm sollte das Symbol der Arbeitsumgebung für einen Cluster, den Sie mit einem Konnektor erkannt haben, ähnlich wie das folgende aussehen:
 
@@ -126,7 +126,7 @@ image:screenshot_template_creating_resource_ontap.png["Ein Screenshot zeigt den 
 
 Dann wird das neue Volume zur Arbeitsumgebung hinzugefügt.
 
-Außerdem werden, wenn sekundäre Aktionen in der Vorlage implementiert werden, z. B. wenn Sie Cloud Backup für das Volume aktivieren, diese Aktion ausgeführt.
+Wenn außerdem eine sekundäre Aktion in der Vorlage implementiert wird, beispielsweise durch die Aktivierung von BlueXP Backup und Recovery auf dem Volume, wird ebenfalls ausgeführt.
 
 .Nachdem Sie fertig sind
 Wenn Sie eine CIFS-Freigabe bereitgestellt haben, erteilen Sie Benutzern oder Gruppen Berechtigungen für die Dateien und Ordner, und überprüfen Sie, ob diese Benutzer auf die Freigabe zugreifen und eine Datei erstellen können.
@@ -216,7 +216,7 @@ Wenn Sie Hilfe bei der Verwendung von System Manager mit ONTAP benötigen, finde
 
 
 
-== Aktivieren Sie BlueXP-Datenservices
+== Bereitstellung von BlueXP Services
 
 BlueXP Datenservices lassen sich in Ihren Arbeitsumgebungen aktivieren, um Daten zu replizieren, Daten zu sichern, Daten-Tiers zu verschieben und vieles mehr.
 
@@ -226,22 +226,22 @@ Datenreplizierung:: Daten zwischen Cloud Volumes ONTAP Systemen, Amazon FSX for 
 https://docs.netapp.com/us-en/cloud-manager-replication/task-replicating-data.html["Replizierungsdokumentation"^]
 
 --
-Daten sichern:: Mithilfe von Cloud Backup können Sie Daten von einem lokalen ONTAP System auf kostengünstigen Objekt-Storage in der Cloud sichern.
+Daten sichern:: Sichern Sie Daten von einem lokalen ONTAP System auf kostengünstigen Objekt-Storage in der Cloud.
 +
 --
-https://docs.netapp.com/us-en/cloud-manager-backup-restore/concept-backup-to-cloud.html["Dokumentation für Cloud-Backup"^]
+https://docs.netapp.com/us-en/cloud-manager-backup-restore/concept-backup-to-cloud.html["Dokumentation zu Backup und Recovery"^]
 
 --
 Scannen, Zuordnen und Klassifizieren Sie Ihre Daten:: Scannen Sie die On-Premises-Cluster Ihres Unternehmens, um Daten zuzuordnen, zu klassifizieren und private Informationen zu identifizieren. Auf diese Weise reduzieren Sie Sicherheits- und Compliance-Risiken, senken die Storage-Kosten und unterstützen Ihre Datenmigrationsprojekte.
 +
 --
-https://docs.netapp.com/us-en/cloud-manager-data-sense/concept-cloud-compliance.html["Cloud Data Sense Dokumentation"^]
+https://docs.netapp.com/us-en/cloud-manager-data-sense/concept-cloud-compliance.html["Dokumentation der Klassifizierung"^]
 
 --
-Tiering von Daten in die Cloud:: Erweitern Sie Ihr Datacenter in die Cloud, indem Sie inaktive Daten automatisch von ONTAP Clustern auf Objekt-Storage mithilfe von Cloud-Tiering verschieben.
+Tiering von Daten in die Cloud:: Erweitern Sie Ihr Datacenter in die Cloud durch das automatische Tiering inaktiver Daten von ONTAP Clustern in Objekt-Storage.
 +
 --
-https://docs.netapp.com/us-en/cloud-manager-tiering/concept-cloud-tiering.html["Dokumentation für das Cloud-Tiering"^]
+https://docs.netapp.com/us-en/cloud-manager-tiering/concept-cloud-tiering.html["Dokumentation zum Tiering"^]
 
 --
 Aufrechterhaltung von Systemzustand, Uptime und Performance:: Implementierung vorgeschlagener Korrekturmaßnahmen für ONTAP-Cluster, bevor es zu einem Ausfall oder Ausfall kommt.
