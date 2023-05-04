@@ -325,7 +325,6 @@
   <block id="00134a9d28b6398470ee6b1362eeb303" category="section-title">Verwenden der erweiterten Ansicht (System Manager)</block>
   <block id="1eba71d64e6c5e410e558530711e835b" category="summary">Bekannte Einschränkungen identifizieren Plattformen, Geräte oder Funktionen, die von dieser Version des Produkts nicht unterstützt werden oder nicht korrekt mit dem Produkt zusammenarbeiten. Lesen Sie diese Einschränkungen sorgfältig durch.</block>
   <block id="482723983a4f2af954e36ff41e567451" category="doc">Bekannte Einschränkungen</block>
-  <block id="d7eb6312f68de520afbf446e19850f73" category="paragraph">Einige System Manager-Funktionen werden von BlueXP nicht unterstützt:</block>
   <block id="bbbaee2173c1bbfdec1f9145d05f9f6e" category="paragraph">Nachdem Sie die Management-IP-Adresse festgelegt und das Admin-Passwort in einem On-Prem ONTAP-Cluster konfiguriert haben, können Sie das Cluster in BlueXP erkennen.</block>
   <block id="ef8d24c115f07ff9475a999250c2a5d8" category="list-text">Rollenbasierte Zugriffssteuerung (nur Connector)</block>
   <block id="4a2ee857fe0aa1483d07a75bf8d71bec" category="paragraph">Die rollenbasierte Zugriffssteuerung über den System-Manager wird nicht unterstützt, wenn ein lokales ONTAP-Cluster mithilfe eines Connectors erkannt und gemanagt wird. Sie werden aufgefordert, während der Bestandsaufnahme Ihre Admin-Anmeldedaten einzugeben. Diese Anmeldedaten werden für alle aus System Manager ergriffenen Aktionen verwendet.</block>
@@ -509,4 +508,8 @@
   <block id="c95623cd0395d5a6bb6105b9d32f197b" category="inline-link">Hinweis für BlueXP</block>
   <block id="e8a6d0f19a957eac14b9917a6c92899b" category="paragraph"><block ref="e8a6d0f19a957eac14b9917a6c92899b" category="inline-link-rx"></block></block>
   <block id="04bc2a96611cc493340c1c133029a56c" category="paragraph">Cloud Backup kann direkt aus dem Backup und Recovery von BlueXP auf einem lokalen Cluster aktiviert werden.<block ref="d78fdae783f693d400093119494a670a" category="inline-link-rx"></block></block>
+  <block id="51f9789c1f459351ccbb34c7b6043a74" category="section-title">Nicht unterstützte Cluster</block>
+  <block id="b9dbfde306bbf057c758e6f86b276382" category="paragraph">On-Premises-ONTAP-Cluster, die mit SAML-Authentifizierung konfiguriert sind, werden von BlueXP nicht unterstützt.</block>
+  <block id="3b4a393ec2775335fff67bde36ea1a2c" category="section-title">Einschränkungen von System Manager</block>
+  <block id="863293364989cec504101494f7916b90" category="paragraph">Die folgenden Funktionen von System Manager werden von BlueXP nicht unterstützt:</block>
 </blocks>

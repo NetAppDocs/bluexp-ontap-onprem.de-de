@@ -16,7 +16,17 @@ summary: Bekannte Einschränkungen identifizieren Plattformen, Geräte oder Funk
 [role="lead"]
 Bekannte Einschränkungen identifizieren Plattformen, Geräte oder Funktionen, die von dieser Version des Produkts nicht unterstützt werden oder nicht korrekt mit dem Produkt zusammenarbeiten. Lesen Sie diese Einschränkungen sorgfältig durch.
 
-Einige System Manager-Funktionen werden von BlueXP nicht unterstützt:
+
+
+== Nicht unterstützte Cluster
+
+On-Premises-ONTAP-Cluster, die mit SAML-Authentifizierung konfiguriert sind, werden von BlueXP nicht unterstützt.
+
+
+
+== Einschränkungen von System Manager
+
+Die folgenden Funktionen von System Manager werden von BlueXP nicht unterstützt:
 
 * Cluster-Einrichtung
 +
