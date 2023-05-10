@@ -207,11 +207,11 @@ image:screenshot-standard-view.png["Ein Screenshot einer lokalen ONTAP Arbeitsum
 
 === Holen Sie sich Hilfe mit System Manager
 
-Wenn Sie Hilfe bei der Verwendung von System Manager mit ONTAP benötigen, finden Sie unter https://docs.netapp.com/us-en/ontap/index.html["ONTAP-Dokumentation"^] Schritt-für-Schritt-Anleitungen. Hier sind einige Links, die helfen könnten:
+Wenn Sie Hilfe bei der Verwendung von System Manager mit ONTAP benötigen, finden Sie unter https://["ONTAP-Dokumentation"^] Schritt-für-Schritt-Anleitungen. Hier sind einige Links, die helfen könnten:
 
-* https://docs.netapp.com/us-en/ontap/volume-admin-overview-concept.html["Volume- und LUN-Management"^]
-* https://docs.netapp.com/us-en/ontap/network-manage-overview-concept.html["Netzwerkmanagement"^]
-* https://docs.netapp.com/us-en/ontap/concept_dp_overview.html["Datensicherung"^]
+* https://["Volume- und LUN-Management"^]
+* https://["Netzwerkmanagement"^]
+* https://["Datensicherung"^]
 
 
 
@@ -223,37 +223,37 @@ BlueXP Datenservices lassen sich in Ihren Arbeitsumgebungen aktivieren, um Daten
 Datenreplizierung:: Daten zwischen Cloud Volumes ONTAP Systemen, Amazon FSX for ONTAP Filesystemen und ONTAP Clustern replizieren Unternehmen haben die Wahl zwischen einer einmaligen Datenreplizierung, mit der sie Daten in die und aus der Cloud verschieben können, oder einem regelmäßigen Zeitplan, der bei der Disaster Recovery oder der langfristigen Datenaufbewahrung helfen kann.
 +
 --
-https://docs.netapp.com/us-en/cloud-manager-replication/task-replicating-data.html["Replizierungsdokumentation"^]
+https://["Replizierungsdokumentation"^]
 
 --
 Daten sichern:: Sichern Sie Daten von einem lokalen ONTAP System auf kostengünstigen Objekt-Storage in der Cloud.
 +
 --
-https://docs.netapp.com/us-en/cloud-manager-backup-restore/concept-backup-to-cloud.html["Dokumentation zu Backup und Recovery"^]
+https://["Dokumentation zu Backup und Recovery"^]
 
 --
 Scannen, Zuordnen und Klassifizieren Sie Ihre Daten:: Scannen Sie die On-Premises-Cluster Ihres Unternehmens, um Daten zuzuordnen, zu klassifizieren und private Informationen zu identifizieren. Auf diese Weise reduzieren Sie Sicherheits- und Compliance-Risiken, senken die Storage-Kosten und unterstützen Ihre Datenmigrationsprojekte.
 +
 --
-https://docs.netapp.com/us-en/cloud-manager-data-sense/concept-cloud-compliance.html["Dokumentation der Klassifizierung"^]
+https://["Dokumentation der Klassifizierung"^]
 
 --
 Tiering von Daten in die Cloud:: Erweitern Sie Ihr Datacenter in die Cloud durch das automatische Tiering inaktiver Daten von ONTAP Clustern in Objekt-Storage.
 +
 --
-https://docs.netapp.com/us-en/cloud-manager-tiering/concept-cloud-tiering.html["Dokumentation zum Tiering"^]
+https://["Dokumentation zum Tiering"^]
 
 --
 Aufrechterhaltung von Systemzustand, Uptime und Performance:: Implementierung vorgeschlagener Korrekturmaßnahmen für ONTAP-Cluster, bevor es zu einem Ausfall oder Ausfall kommt.
 +
 --
-https://docs.netapp.com/us-en/bluexp-operational-resiliency/index.html["Dokumentation der betrieblichen Ausfallsicherheit"^]
+https://["Dokumentation der betrieblichen Ausfallsicherheit"^]
 
 --
 Identifizierung von Clustern mit geringer Kapazität:: Ermitteln Sie Cluster mit geringer Kapazität, prüfen Sie Cluster auf aktuelle und prognostizierte Kapazität und vieles mehr.
 +
 --
-https://docs.netapp.com/us-en/bluexp-economic-efficiency/index.html["Dokumentation der wirtschaftlichen Effizienz"^]
+https://["Dokumentation der wirtschaftlichen Effizienz"^]
 
 --
 

@@ -30,7 +30,7 @@ Die folgenden Funktionen von System Manager werden von BlueXP nicht unterstützt
 
 * Cluster-Einrichtung
 +
-Nachdem Sie die Management-IP-Adresse festgelegt und das Admin-Passwort in einem On-Prem ONTAP-Cluster konfiguriert haben, können Sie das Cluster in BlueXP erkennen.
+Nachdem Sie die Management-IP-Adresse festgelegt und das Admin-Passwort auf einem lokalen ONTAP-Cluster konfiguriert haben, können Sie das Cluster in BlueXP erkennen.
 
 * Rollenbasierte Zugriffssteuerung (nur Connector)
 +
@@ -39,13 +39,19 @@ Die rollenbasierte Zugriffssteuerung über den System-Manager wird nicht unterst
 +
 Bei der Option Direct Discovery werden Sie aufgefordert, sich bei jedem Öffnen der Arbeitsumgebung mit Ihren ONTAP-Anmeldedaten einzuloggen.
 
-* Cloud-Backup-Aktivierung
+* BlueXP Aktivierung für Backup und Recovery (Cloud Backup)
 +
-Cloud Backup kann direkt aus dem Backup und Recovery von BlueXP auf einem lokalen Cluster aktiviert werden. https://docs.netapp.com/us-en/cloud-manager-backup-restore/concept-ontap-backup-to-cloud.html["Erste Schritte"^]
+Die Cluster-Version muss „9.13.1“ sein, um das Backup und Recovery von BlueXP aus System Manager zu ermöglichen.
+
++
+Wenn Sie einen Cluster mit einem Connector erkannt haben, können Sie den System Manager (erweiterte Ansicht) nicht verwenden, um Backup und Recovery zu ermöglichen. Sie können jedoch Backup und Recovery auf einem lokalen Cluster direkt aus BlueXP aktivieren. https://["Erste Schritte"^]
 
 * On-Demand-Upgrades
 +
-Firmware und Software können nicht nach Bedarf aktualisiert werden.
+Bedarfsgesteuerte Upgrades von Firmware und Software sind nicht verfügbar, wenn es sich bei der Cluster-Version um ONTAP 9.9.1 oder eine ältere Version handelt.
+
++
+Wenn Sie über einen Connector verfügen, können Sie keine Updates von Ihrem lokalen Rechner aus vornehmen, nur von einem Server, auf den Sie mit BlueXP zugreifen können.
 
 * Globale Suche
 * Benutzeroberflächeneinstellungen

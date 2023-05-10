@@ -40,4 +40,4 @@ Digital Advisor liefert Informationen zu allen lokalen ONTAP Systemen und Cloud 
 
 == Weitere Informationen
 
-https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-bluexp.html["Digitale Berater-Dokumentation"^]
+https://["Digitale Berater-Dokumentation"^]
