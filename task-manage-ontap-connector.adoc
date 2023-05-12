@@ -223,25 +223,25 @@ BlueXP Datenservices lassen sich in Ihren Arbeitsumgebungen aktivieren, um Daten
 Datenreplizierung:: Daten zwischen Cloud Volumes ONTAP Systemen, Amazon FSX for ONTAP Filesystemen und ONTAP Clustern replizieren Unternehmen haben die Wahl zwischen einer einmaligen Datenreplizierung, mit der sie Daten in die und aus der Cloud verschieben können, oder einem regelmäßigen Zeitplan, der bei der Disaster Recovery oder der langfristigen Datenaufbewahrung helfen kann.
 +
 --
-https://["Replizierungsdokumentation"^]
+5f87e564b371518f04853fd701600836
 
 --
 Daten sichern:: Sichern Sie Daten von einem lokalen ONTAP System auf kostengünstigen Objekt-Storage in der Cloud.
 +
 --
-https://["Dokumentation zu Backup und Recovery"^]
+6645031c9d411c3036d45429e7b9b169
 
 --
 Scannen, Zuordnen und Klassifizieren Sie Ihre Daten:: Scannen Sie die On-Premises-Cluster Ihres Unternehmens, um Daten zuzuordnen, zu klassifizieren und private Informationen zu identifizieren. Auf diese Weise reduzieren Sie Sicherheits- und Compliance-Risiken, senken die Storage-Kosten und unterstützen Ihre Datenmigrationsprojekte.
 +
 --
-https://["Dokumentation der Klassifizierung"^]
+4f24a5d25954834b6fff1a00bf7ad8e8
 
 --
 Tiering von Daten in die Cloud:: Erweitern Sie Ihr Datacenter in die Cloud durch das automatische Tiering inaktiver Daten von ONTAP Clustern in Objekt-Storage.
 +
 --
-https://["Dokumentation zum Tiering"^]
+4be55bddfe0135eea0cb86495548cff5
 
 --
 Aufrechterhaltung von Systemzustand, Uptime und Performance:: Implementierung vorgeschlagener Korrekturmaßnahmen für ONTAP-Cluster, bevor es zu einem Ausfall oder Ausfall kommt.

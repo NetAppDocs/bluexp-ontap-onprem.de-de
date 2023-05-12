@@ -59,7 +59,7 @@ Stellen Sie vor der Erkennung Ihres lokalen ONTAP-Clusters sicher, dass Sie die 
 
 * Sie sollten mit BlueXP loslegen, was die Anmeldung und Einrichtung eines Kontos umfasst.
 +
-https://["Erfahren Sie, wie Sie BlueXP zum Einsatz bringen"^]
+69c4d579a506c05e94d3e4986ec536a3
 
 * Sie benötigen die Cluster-Management-IP-Adresse und das Passwort für das Admin-Benutzerkonto.
 * BlueXP erkennt ONTAP-Cluster mithilfe von HTTPS. Wenn Sie benutzerdefinierte Firewallrichtlinien verwenden, muss der ONTAP-Cluster eingehenden HTTPS-Zugriff über Port 443 ermöglichen.
@@ -78,9 +78,9 @@ Die standardmäßige "mgmt"-Firewall-Richtlinie ermöglicht eingehenden HTTPS-Zu
 Wenn kalte Daten in die Cloud verschoben werden sollen, sollten Sie die Anforderungen für den Connector prüfen, je nachdem, wo Sie kalte Daten Tiering möchten.
 
 +
-** https://["Erfahren Sie mehr über Steckverbinder"^]
-** https://["Wechseln zwischen den Anschlüssen"^]
-** https://["Weitere Informationen zu BlueXP Tiering"^]
+** da1264a616f156bd6836a85f7dfdea5a
+** 74d39f4b6fe0e32c5cfa2ed86891bf44
+** ab39f7f9b8000627309eae76de10963b
 
 
 * Der Connector-Host muss ausgehenden HTTPS-Zugriff über Port 443 ermöglichen.

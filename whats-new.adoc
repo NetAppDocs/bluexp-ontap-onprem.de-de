@@ -45,7 +45,7 @@ NOTE: Wenn Sie über einen Connector verfügen, können Sie keine Updates von Ih
 
 Wenn Sie ein On-Premises-ONTAP-Cluster über die BlueXP Konsole erkennen, erhalten Sie jetzt eine einzelne Option:
 
-image:https://raw.githubusercontent.com/NetAppDocs/bluexp-ontap-onprem/main/media/screenshot-discover-on-prem-ontap.png["Ein Screenshot, der die Option On-Premises-ONTAP ermitteln anzeigt, die beim Erstellen einer Arbeitsumgebung verfügbar ist"]
+aea8878e3e5cb0f622cbe596cc98ef50
 
 Zuvor gab es separate Ströme für die direkte Erkennung und für die Erkennung mit einem Connector. Beide Optionen sind weiterhin verfügbar, aber in einem einzigen Fluss zusammengefasst.
 
@@ -55,7 +55,7 @@ Wenn Sie die Erkennung starten, erkennt BlueXP den Cluster wie folgt:
 * Wenn Sie keinen Connector haben oder Ihr Connector keine Verbindung zum ONTAP-Cluster hat, verwendet BlueXP automatisch die Option für direkte Erkennung und Management.
 
 
-https://["Erfahren Sie mehr über die Erkennungs- und Managementoptionen"].
+d74db5b2b9703b60c98aead9c3c3275e
 
 
 
@@ -81,7 +81,7 @@ Die folgenden Änderungen wurden mit der Version 3.9.24 des Connectors eingefüh
 
 Sie können jetzt Ihre lokalen ONTAP Cluster direkt erkennen, ohne einen Connector zu verwenden. Diese Option ermöglicht das Cluster Management nur über System Manager. In dieser Arbeitsumgebung können Sie keine BlueXP-Datenservices aktivieren.
 
-https://["Erfahren Sie mehr über diese Option zur Erkennung und Verwaltung"].
+7b755afb39a1416600c762f9fe472d98
 
 
 
@@ -89,7 +89,7 @@ https://["Erfahren Sie mehr über diese Option zur Erkennung und Verwaltung"].
 
 Für On-Premises-ONTAP-Cluster, die über einen Connector erkannt werden, zeigt die Standardansicht in BlueXP jetzt die FlexGroup Volumes, die über System Manager oder die ONTAP CLI erstellt wurden. Sie können diese Volumes auch verwalten, indem Sie sie klonen, ihre Einstellungen bearbeiten und löschen.
 
-image:https://raw.githubusercontent.com/NetAppDocs/bluexp-ontap-onprem/main/media/screenshot-flexgroup-volumes.png["Ein Screenshot, der ein FlexGroup-Volume auf der Seite „Volumes“ für ein ONTAP-Cluster vor Ort zeigt"]
+aa60f08e9c5a748d9b57c0e7689a43f5
 
 BlueXP unterstützt das Erstellen von FlexGroup Volumes nicht. Zum Erstellen von FlexGroup Volumes müssen Sie weiterhin System Manager oder die CLI verwenden.
 
@@ -107,7 +107,7 @@ Mit der neuen Übersichtsseite möchten wir wichtige Details zu einem lokalen ON
 
 Sie können sich außerdem Details zur Integration mit anderen BlueXP Services anzeigen lassen, die Daten-Tiering, Datenreplizierung und Backups ermöglichen.
 
-image:https://raw.githubusercontent.com/NetAppDocs/bluexp-ontap-onprem/main/media/screenshot-overview.png["Ein Screenshot, der die Übersichtsseite für ein ONTAP-Cluster vor Ort anzeigt."]
+5277a2f54c2173b12f8eb86ae9da078e
 
 
 
@@ -115,7 +115,7 @@ image:https://raw.githubusercontent.com/NetAppDocs/bluexp-ontap-onprem/main/medi
 
 Die Seite Volumes wurde neu gestaltet, um eine Zusammenfassung der Volumes in einem Cluster zu bieten. Die Zusammenfassung gibt Ihnen die Gesamtzahl der Volumes, die Menge der bereitgestellten Kapazität, genutzte und reservierte Kapazität sowie die Menge der Tiered-Daten an.
 
-image:https://raw.githubusercontent.com/NetAppDocs/bluexp-ontap-onprem/main/media/screenshot-volumes.png["Ein Screenshot, der die Volume-Seite für ein On-Prem ONTAP-Cluster zeigt"]
+bb4feb07894e787f9d7a8a9c00fa4d55
 
 
 
@@ -145,7 +145,7 @@ Diese erweiterte Ansicht ist als Vorschau für lokale ONTAP Cluster mit 9.10.0 o
 
 Sie haben jetzt die Möglichkeit, den Bestand Ihrer lokalen ONTAP Cluster sowie die zugehörigen Ablaufdaten der Hardware- und Serviceverträge anzuzeigen. Weitere Details zu den Clustern sind ebenfalls verfügbar.
 
-https://["Erfahren Sie, wie Sie diese wichtigen On-Premises-Cluster-Informationen anzeigen"]. Sie müssen ein NetApp Support Site Konto (NSS) für die Cluster besitzen, und die NSS-Zugangsdaten müssen an Ihr Cloud Manager Konto angehängt werden.
+09cc582da9a3118b6520cf72b79e82b3
 
 
 
