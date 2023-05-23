@@ -41,12 +41,12 @@ image:screenshot-credentials.png["In einem Screenshot, der die Eingabeaufforderu
 
 . Verwenden Sie System Manager zum Verwalten von ONTAP.
 +
-Wenn Sie Hilfe bei der Verwendung von System Manager mit ONTAP benötigen, finden Sie unter https://["ONTAP-Dokumentation"^] Schritt-für-Schritt-Anleitungen. Hier sind einige Links, die helfen könnten:
+Wenn Sie Hilfe bei der Verwendung von System Manager mit ONTAP benötigen, finden Sie unter https://docs.netapp.com/us-en/ontap/index.html["ONTAP-Dokumentation"^] Schritt-für-Schritt-Anleitungen. Hier sind einige Links, die helfen könnten:
 
 +
-** https://["Volume- und LUN-Management"^]
-** https://["Netzwerkmanagement"^]
-** https://["Datensicherung"^]
+** https://docs.netapp.com/us-en/ontap/volume-admin-overview-concept.html["Volume- und LUN-Management"^]
+** https://docs.netapp.com/us-en/ontap/network-manage-overview-concept.html["Netzwerkmanagement"^]
+** https://docs.netapp.com/us-en/ontap/concept_dp_overview.html["Datensicherung"^]
 
 
 

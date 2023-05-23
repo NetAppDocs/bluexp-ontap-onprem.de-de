@@ -38,4 +38,4 @@ Nachdem Sie ein Cluster erkannt haben, steht es als Arbeitsumgebung in BlueXP zu
 
 
 .Verwandter Link
-https://["Erfahren Sie mehr über das Management der Lizenzen für lokale ONTAP Cluster aus der Digital Wallet von BlueXP"^]
+https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-on-prem-clusters.html["Erfahren Sie mehr über das Management der Lizenzen für lokale ONTAP Cluster aus der Digital Wallet von BlueXP"^]

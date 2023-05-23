@@ -10,151 +10,151 @@ summary: 'NetApp bietet Unterstützung für BlueXP auf verschiedene Weise. Umfas
 :imagesdir: ../media/
 
 
-7c5661ab6b39ee901cea00a6e7020a49
+NetApp bietet Unterstützung für BlueXP und seine Cloud-Services auf unterschiedliche Weise. Umfassende kostenlose Self-Support-Optionen stehen rund um die Uhr zur Verfügung, wie etwa Knowledge Base-Artikel (KB) und ein Community-Forum. Ihre Support-Registrierung umfasst technischen Remote-Support über Web-Ticketing.
 
 
 
-== edd15fbeb7b2dffa163336ecd4f3e80c
+== Nutzen Sie Self-Support-Optionen
 
-5e4b821a1a82558dead1ef6961e90666
+Diese Optionen sind kostenlos verfügbar, 24 Stunden am Tag, 7 Tage die Woche:
 
-* 942c9249796cf6b78c981ebf15195809
+* https://kb.netapp.com/Cloud/BlueXP["Wissensdatenbank"^]
 +
-9a3db1abe5491d0eb9bb5d125981356c
+Suchen Sie in der BlueXP Knowledge Base nach hilfreichen Artikeln zur Fehlerbehebung.
 
-* 410fdb9caa9c64da2ff3f88f4836960d
+* http://community.netapp.com/["Communitys"^]
 +
-00c5fef3bb9d593ae96bf5d2ee60354a
+Treten Sie der BlueXP Community bei, um laufende Diskussionen zu verfolgen oder neue zu erstellen.
 
-* 5b6cf869265c13af8566f192b4ab3d2a
+* Dokumentation
 +
-a4a6c2ea0078252eac2d74ef3e6c917c
+Die BlueXP-Dokumentation, die Sie gerade anzeigen.
 
-* 80b1b0d2b1ebf2b3cba2d25759801afd
+* Mailto:ng-cloudmanager-feedback@netapp.com[Feedback email]
 +
-6702efec14563f45f1ee2f8c613b8ad8
+Wir wissen Ihre Vorschläge zu schätzen. Senden Sie uns Ihr Feedback, um BlueXP zu verbessern.
 
 
 
 
 
-== d88bacf2a9fdcbbc844edcba97c34e30
+== Erstellen Sie einen Fall mit dem NetApp Support
 
-82812db645b6ff5e9c2a24ddfb66c8d6
+Zusätzlich zu den oben genannten Self-Support-Optionen können Sie gemeinsam mit einem NetApp Support-Experten eventuelle Probleme nach der Aktivierung des Supports beheben.
 
-.8fece025a1a8fef7018449bf104a2527
-1012a287397c66025d7748edf06a36e2
+.Bevor Sie beginnen
+Um die * Case erstellen*-Fähigkeit zu verwenden, müssen Sie zuerst eine einmalige Registrierung Ihrer BlueXP Account ID-Seriennummer (dh 960xxxx) mit NetApp link:task-support-registration.html["Erfahren Sie, wie Sie sich für Support registrieren"].
 
 .Schritte
-. 6254a4afeeb76765a127fe74d31c1b3d
-. 08d96fdd1a845d80db99e6e1dffb8bc7
+. Klicken Sie in BlueXP auf *Hilfe > Support*.
+. Wählen Sie auf der Seite *Ressourcen* eine der verfügbaren Optionen unter Technischer Support:
 +
-.. 383133cb6f7207b1c65c3ace94aa5e95
-.. 5be2e1dfe4bf215289731df45ec8157b
+.. Klicken Sie auf *Rufen Sie uns an*, wenn Sie mit jemandem am Telefon sprechen möchten. Sie werden zu einer Seite auf netapp.com weitergeleitet, auf der die Telefonnummern aufgeführt sind, die Sie anrufen können.
+.. Klicken Sie auf *Fall erstellen*, um ein Ticket bei einem NetApp Support Spezialisten zu öffnen:
 +
-*** b53e0a259f4a0c8e7da80d6c94e26c84
+*** *NetApp Support Site Account*: Wählen Sie das entsprechende NSS-Konto für die Person aus, die den Support-Case eröffnet. Diese Person ist der primäre Ansprechpartner bei NetApp, der Sie sich zusätzlich zu den unten aufgeführten zusätzlichen E-Mails mit anderen Kunden in Verbindung setzen kann.
 +
-d950fb930d7f7e6bfdda1b91b4639a02
+Wenn Ihr NSS-Konto nicht angezeigt wird, können Sie im Support-Bereich von BlueXP zur Registerkarte *NSS Management* navigieren, um es dort hinzuzufügen.
 
-*** d63bf50426f4c712554faec55b30c548
-*** 2e50c5f85523f0aba9ff2db10f18279c
+*** *Service*: Wählen Sie den Dienst aus, mit dem das Problem verknüpft ist. Beispiel: BlueXP, wenn es sich um ein Problem des technischen Supports mit Workflows oder Funktionen im Service handelt.
+*** *Arbeitsumgebung*: Wählen Sie *Cloud Volumes ONTAP* oder *On-Prem* und anschließend die zugehörige Arbeitsumgebung aus.
 +
-aa996e20900197b0ea41485ada083d8c
+Die Liste der Arbeitsumgebungen liegt im Bereich des BlueXP-Kontos, des Arbeitsbereichs und des Connectors, den Sie im oberen Banner des Dienstes ausgewählt haben.
 
-*** e6f29fb3c7636dc0040600dd0e84bb79
+*** *Case Priority*: Wählen Sie die Priorität für den Fall, der niedrig, Mittel, hoch oder kritisch sein kann.
 +
-835eb4008e97c2a7f69bbb2725285e34
+Wenn Sie weitere Informationen zu diesen Prioritäten wünschen, bewegen Sie den Mauszeiger über das Informationssymbol neben dem Feldnamen.
 
-*** 0f7d9319c95a8be1492e74601c4b3259
-*** 002c6f26fb01affb37b8cf3cef7a1fb0
-*** c7f5c1a75acc58c6f004efc0ce1eba09
+*** *Problembeschreibung*: Geben Sie eine detaillierte Beschreibung Ihres Problems an, einschließlich aller anwendbaren Fehlermeldungen oder Fehlerbehebungsschritte, die Sie durchgeführt haben.
+*** *Zusätzliche E-Mail-Adressen*: Geben Sie zusätzliche E-Mail-Adressen ein, wenn Sie jemand anderes auf dieses Problem aufmerksam machen möchten.
+*** *Anhang (optional)*: Laden Sie bis zu fünf Anhänge nacheinander hoch.
 +
-bfa80e7aaad6da353b431bff3a0e12d6
+Anhänge sind auf 25 MB pro Datei begrenzt. Folgende Dateierweiterungen werden unterstützt: Txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx und csv.
 
 
 
 
 
 +
-a2ff30886e1baf1e7d5045b5fc24f5b9
+image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-family/main/media/screenshot-create-case.png["Screenshot aus dem Formular „Create a Case“, in dem Sie einen Case beim NetApp Support erstellen können"]
 
 
 
 .Nachdem Sie fertig sind
-18f487556417bb6d9721a7005ae097c9
+Es wird ein Popup-Fenster mit der Support-Fallnummer angezeigt. Ein NetApp Support-Experte prüft Ihren Fall und macht Sie umgehend mit.
 
-04e15da1deae9568b4dcda64fbb0c8d5
+Für eine Historie Ihrer Supportfälle können Sie auf *Einstellungen > Timeline* klicken und nach Aktionen mit dem Namen „Support Case erstellen“ suchen. Mit einer Schaltfläche ganz rechts können Sie die Aktion erweitern, um Details anzuzeigen.
 
-5c56753585e89a84941bb3a78bc681af
+Es ist möglich, dass beim Versuch, einen Fall zu erstellen, möglicherweise die folgende Fehlermeldung angezeigt wird:
 
-a30f69ab0ec85d427a3e8835713525bd
+„Sie sind nicht berechtigt, einen Fall für den ausgewählten Service zu erstellen.“
 
-fa6b601b2fb4e3e5c7b466ecb8bd70ac
+Dieser Fehler könnte bedeuten, dass das NSS-Konto und das Unternehmen des Datensatzes, mit dem es verbunden ist, nicht das gleiche Unternehmen des Eintrags für die BlueXP Account Seriennummer (dh 960xxxx) oder Seriennummer der Arbeitsumgebung. Sie können Ihre Liste der NSS-Konten oben im *Case erstellen*-Formular überprüfen, um die richtige Übereinstimmung zu finden, oder Sie können Hilfe mit einer der folgenden Optionen suchen:
 
-* e01df0b4dfd95eba2c59333419e4fac6
-* 639be990cfca56ab4b63685d8bacd437
-
-
+* Verwenden Sie den Chat im Produkt
+* Übermitteln eines nicht-technischen Cases unter https://mysupport.netapp.com/site/help[]
 
 
-== 898e35e1a4bf4b025c3edec879439b08
 
-8b74b053fbeeff5c3b6f4991cb1d028d
 
-394ef093ad3259b9ff0fe7406f015b83
+== Managen Ihrer Support-Cases (Vorschau)
 
-cf3a2d2c139bf5c9cc87fe714bfff3b1
+Sie können aktive und gelöste Support-Cases direkt über BlueXP anzeigen und managen. Sie können die mit Ihrem NSS-Konto und Ihrem Unternehmen verbundenen Fälle verwalten.
 
-* 5e4e7672ec2ba2b8a763da7f6714e212
+Case Management ist als Vorschau verfügbar. Wir planen, diese Erfahrungen weiter zu verbessern und in zukünftigen Versionen Verbesserungen hinzuzufügen. Bitte senden Sie uns Ihr Feedback über den Product-Chat.
+
+Beachten Sie Folgendes:
+
+* Das Case-Management-Dashboard oben auf der Seite bietet zwei Ansichten:
 +
-** 01c3ffea552d74a5ae390b10e71a1f26
-** e3b6c09a5686233f72ce1ea60a1eb088
+** Die Ansicht auf der linken Seite zeigt die Gesamtzahl der Fälle, die in den letzten 3 Monaten durch das von Ihnen angegebene NSS-Benutzerkonto eröffnet wurden.
+** Die Ansicht auf der rechten Seite zeigt die Gesamtzahl der in den letzten 3 Monaten auf Unternehmensebene eröffneten Fälle basierend auf Ihrem NSS-Benutzerkonto an.
 
 
 +
-b19b168cc8a2b8c984465e140256b3a2
+Die Ergebnisse in der Tabelle geben die Fälle in Bezug auf die ausgewählte Ansicht wieder.
 
-* 56dcadeee6b0e5c47a52673f9b5a0bb3
+* Sie können interessante Spalten hinzufügen oder entfernen und den Inhalt von Spalten wie Priorität und Status filtern. Andere Spalten bieten nur Sortierfunktionen.
 +
-6f936762e1223311f031685422fcd3a4
+Weitere Informationen erhalten Sie in den Schritten unten.
 
-* b14929795a61440e9b4ec9f8a4885ae3
+* Auf Fallebene bieten wir die Möglichkeit, Fallnotizen zu aktualisieren oder einen Fall zu schließen, der sich noch nicht im Status „Geschlossen“ oder „Geschlossen“ befindet.
 
 
 .Schritte
-. 6254a4afeeb76765a127fe74d31c1b3d
-. 34b1296d31cefa72dae9b3a364b1f444
+. Klicken Sie in BlueXP auf *Hilfe > Support*.
+. Klicken Sie auf *Case Management* und fügen Sie bei Aufforderung Ihr NSS-Konto zu BlueXP hinzu.
 +
-d8ce1865cf1fe3cffd60300b4b86ad63
+Auf der Seite *Case Management* werden offene Fälle im Zusammenhang mit dem NSS-Konto angezeigt, das mit Ihrem BlueXP Benutzerkonto verknüpft ist. Dies ist das gleiche NSS-Konto, das oben auf der Seite *NSS Management* angezeigt wird.
 
-. 2ae5ae78bdb2d222f15fd8e89248709c
+. Ändern Sie optional die in der Tabelle angezeigten Informationen:
 +
-** 27635a52fe4c34c39ffc6430f4244ec6
-** 059e856250b59be3069246887b74a23c
+** Klicken Sie unter *Organizations-Fälle* auf *Ansicht*, um alle mit Ihrem Unternehmen verbundenen Fälle anzuzeigen.
+** Ändern Sie den Datumsbereich, indem Sie einen genauen Datumsbereich oder einen anderen Zeitrahmen auswählen.
 +
-7fcba8aeefa9960d3fc3fa08b360ba2e
+image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-family/main/media/screenshot-case-management-date-range.png["Ein Screenshot der Option über der Tabelle auf der Seite Case Management, mit der Sie einen genauen Datumsbereich oder die letzten 7 Tage, 30 Tage oder 3 Monate auswählen können."]
 
-** a1bb576be9e5a356290f231efb51b3f5
+** Filtern Sie den Inhalt der Spalten.
 +
-37709be3a43df07d5975287545d0ba12
+image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-family/main/media/screenshot-case-management-filter.png["Ein Screenshot der Filteroption in der Spalte Status, in dem Sie Fälle filtern können, die einem bestimmten Status entsprechen, z. B. aktiv oder Geschlossen."]
 
-** 1614dc8e47c0492434152c990d6c1040
+** Ändern Sie die Spalten, die in der Tabelle angezeigt werden, indem Sie auf klicken image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-family/main/media/icon-table-columns.png["Das Plus-Symbol, das in der Tabelle angezeigt wird"] Und wählen Sie dann die Spalten, die Sie anzeigen möchten.
 +
-5de408d7cbad49634fb25f9047498132
+image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-family/main/media/screenshot-case-management-columns.png["Ein Screenshot mit den Spalten, die Sie in der Tabelle anzeigen können."]
 
 
 
-. 98efef1c8a47ed5791b41944e8ff4ec2
+. Managen Sie einen bestehenden Fall, indem Sie auf klicken image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-family/main/media/icon-table-action.png["Ein Symbol mit drei Punkten, das in der letzten Spalte der Tabelle angezeigt wird"] Und eine der verfügbaren Optionen auswählen:
 +
-** 6d9dd74e7709ef802d299966f7898f6b
-** 8e6b52a532a4fbbfc98dca3ebfa5f1e6
+** *Fall anzeigen*: Vollständige Details zu einem bestimmten Fall anzeigen.
+** *Aktennotizen aktualisieren*: Geben Sie zusätzliche Details zu Ihrem Problem an oder wählen Sie *Dateien hochladen*, um maximal fünf Dateien anzuhängen.
 +
-bfa80e7aaad6da353b431bff3a0e12d6
+Anhänge sind auf 25 MB pro Datei begrenzt. Folgende Dateierweiterungen werden unterstützt: Txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx und csv.
 
-** f791bc685c526af8296381acff10f6a0
+** *Fall schließen*: Geben Sie Details darüber an, warum Sie den Fall schließen und klicken Sie auf *Fall schließen*.
 
 
 +
-e9a5c374fb47ed2ae5cc6108fb36d829
+image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-family/main/media/screenshot-case-management-actions.png["Ein Screenshot, der die Aktionen zeigt, die Sie nach Auswahl des Menüs in der letzten Spalte der Tabelle durchführen können."]
 
 
