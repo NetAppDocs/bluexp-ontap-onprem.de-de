@@ -44,7 +44,7 @@ Bei der Option Direct Discovery werden Sie aufgefordert, sich bei jedem Öffnen 
 Die Cluster-Version muss „9.13.1“ sein, um das Backup und Recovery von BlueXP aus System Manager zu ermöglichen.
 
 +
-Wenn Sie einen Cluster mit einem Connector erkannt haben, können Sie den System Manager (erweiterte Ansicht) nicht verwenden, um Backup und Recovery zu ermöglichen. Sie können jedoch Backup und Recovery auf einem lokalen Cluster direkt aus BlueXP aktivieren. https://docs.netapp.com/us-en/cloud-manager-backup-restore/concept-ontap-backup-to-cloud.html["Erste Schritte"^]
+Wenn Sie einen Cluster mit einem Connector erkannt haben, können Sie den System Manager (erweiterte Ansicht) nicht verwenden, um Backup und Recovery zu ermöglichen. Sie können jedoch Backup und Recovery auf einem lokalen Cluster direkt aus BlueXP aktivieren. https://docs.netapp.com/us-en/bluexp-backup-recovery/concept-ontap-backup-to-cloud.html["Erste Schritte"^]
 
 * On-Demand-Upgrades
 +

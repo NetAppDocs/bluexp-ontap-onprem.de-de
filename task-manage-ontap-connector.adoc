@@ -223,25 +223,25 @@ BlueXP Datenservices lassen sich in Ihren Arbeitsumgebungen aktivieren, um Daten
 Datenreplizierung:: Daten zwischen Cloud Volumes ONTAP Systemen, Amazon FSX for ONTAP Filesystemen und ONTAP Clustern replizieren Unternehmen haben die Wahl zwischen einer einmaligen Datenreplizierung, mit der sie Daten in die und aus der Cloud verschieben können, oder einem regelmäßigen Zeitplan, der bei der Disaster Recovery oder der langfristigen Datenaufbewahrung helfen kann.
 +
 --
-https://docs.netapp.com/us-en/cloud-manager-replication/task-replicating-data.html["Replizierungsdokumentation"^]
+https://docs.netapp.com/us-en/bluexp-replication/task-replicating-data.html["Replizierungsdokumentation"^]
 
 --
 Daten sichern:: Sichern Sie Daten von einem lokalen ONTAP System auf kostengünstigen Objekt-Storage in der Cloud.
 +
 --
-https://docs.netapp.com/us-en/cloud-manager-backup-restore/concept-backup-to-cloud.html["Dokumentation zu Backup und Recovery"^]
+https://docs.netapp.com/us-en/bluexp-backup-recovery/concept-backup-to-cloud.html["Dokumentation zu Backup und Recovery"^]
 
 --
 Scannen, Zuordnen und Klassifizieren Sie Ihre Daten:: Scannen Sie die On-Premises-Cluster Ihres Unternehmens, um Daten zuzuordnen, zu klassifizieren und private Informationen zu identifizieren. Auf diese Weise reduzieren Sie Sicherheits- und Compliance-Risiken, senken die Storage-Kosten und unterstützen Ihre Datenmigrationsprojekte.
 +
 --
-https://docs.netapp.com/us-en/cloud-manager-data-sense/concept-cloud-compliance.html["Dokumentation der Klassifizierung"^]
+https://docs.netapp.com/us-en/bluexp-classification/concept-cloud-compliance.html["Dokumentation der Klassifizierung"^]
 
 --
 Tiering von Daten in die Cloud:: Erweitern Sie Ihr Datacenter in die Cloud durch das automatische Tiering inaktiver Daten von ONTAP Clustern in Objekt-Storage.
 +
 --
-https://docs.netapp.com/us-en/cloud-manager-tiering/concept-cloud-tiering.html["Dokumentation zum Tiering"^]
+https://docs.netapp.com/us-en/bluexp-tiering/concept-cloud-tiering.html["Dokumentation zum Tiering"^]
 
 --
 Aufrechterhaltung von Systemzustand, Uptime und Performance:: Implementierung vorgeschlagener Korrekturmaßnahmen für ONTAP-Cluster, bevor es zu einem Ausfall oder Ausfall kommt.

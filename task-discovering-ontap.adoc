@@ -59,7 +59,7 @@ Stellen Sie vor der Erkennung Ihres lokalen ONTAP-Clusters sicher, dass Sie die 
 
 * Sie sollten mit BlueXP loslegen, was die Anmeldung und Einrichtung eines Kontos umfasst.
 +
-https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-overview.html["Erfahren Sie, wie Sie BlueXP zum Einsatz bringen"^]
+https://docs.netapp.com/us-en/bluexp-setup-admin/concept-overview.html["Erfahren Sie, wie Sie BlueXP zum Einsatz bringen"^]
 
 * Sie benötigen die Cluster-Management-IP-Adresse und das Passwort für das Admin-Benutzerkonto.
 * BlueXP erkennt ONTAP-Cluster mithilfe von HTTPS. Wenn Sie benutzerdefinierte Firewallrichtlinien verwenden, muss der ONTAP-Cluster eingehenden HTTPS-Zugriff über Port 443 ermöglichen.
@@ -78,9 +78,9 @@ Die standardmäßige "mgmt"-Firewall-Richtlinie ermöglicht eingehenden HTTPS-Zu
 Wenn kalte Daten in die Cloud verschoben werden sollen, sollten Sie die Anforderungen für den Connector prüfen, je nachdem, wo Sie kalte Daten Tiering möchten.
 
 +
-** https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["Erfahren Sie mehr über Steckverbinder"^]
-** https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-managing-connectors.html["Wechseln zwischen den Anschlüssen"^]
-** https://docs.netapp.com/us-en/cloud-manager-tiering/concept-cloud-tiering.html["Weitere Informationen zu BlueXP Tiering"^]
+** https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["Erfahren Sie mehr über Steckverbinder"^]
+** https://docs.netapp.com/us-en/bluexp-setup-admin/task-managing-connectors.html["Wechseln zwischen den Anschlüssen"^]
+** https://docs.netapp.com/us-en/bluexp-tiering/concept-cloud-tiering.html["Weitere Informationen zu BlueXP Tiering"^]
 
 
 * Der Connector-Host muss ausgehenden HTTPS-Zugriff über Port 443 ermöglichen.

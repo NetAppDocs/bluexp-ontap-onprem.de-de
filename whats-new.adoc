@@ -45,7 +45,7 @@ NOTE: Wenn Sie über einen Connector verfügen, können Sie keine Updates von Ih
 
 Wenn Sie ein On-Premises-ONTAP-Cluster über die BlueXP Konsole erkennen, erhalten Sie jetzt eine einzelne Option:
 
-image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-ontap-onprem/main/media/screenshot-discover-on-prem-ontap.png["Ein Screenshot, der die Option On-Premises-ONTAP ermitteln anzeigt, die beim Erstellen einer Arbeitsumgebung verfügbar ist"]
+image:https://raw.githubusercontent.com/NetAppDocs/bluexp-ontap-onprem/main/media/screenshot-discover-on-prem-ontap.png["Ein Screenshot, der die Option On-Premises-ONTAP ermitteln anzeigt, die beim Erstellen einer Arbeitsumgebung verfügbar ist"]
 
 Zuvor gab es separate Ströme für die direkte Erkennung und für die Erkennung mit einem Connector. Beide Optionen sind weiterhin verfügbar, aber in einem einzigen Fluss zusammengefasst.
 
@@ -55,7 +55,7 @@ Wenn Sie die Erkennung starten, erkennt BlueXP den Cluster wie folgt:
 * Wenn Sie keinen Connector haben oder Ihr Connector keine Verbindung zum ONTAP-Cluster hat, verwendet BlueXP automatisch die Option für direkte Erkennung und Management.
 
 
-https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["Erfahren Sie mehr über die Erkennungs- und Managementoptionen"].
+https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["Erfahren Sie mehr über die Erkennungs- und Managementoptionen"].
 
 
 
@@ -67,7 +67,7 @@ https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.
 
 Wenn Sie eine lokale ONTAP-Arbeitsumgebung öffnen, die direkt ohne die Verwendung eines Connectors erkannt wurde, haben Sie jetzt die Möglichkeit, Ihre ONTAP-Cluster-Anmeldeinformationen zu speichern, sodass Sie sie nicht jedes Mal eingeben müssen, wenn Sie die Arbeitsumgebung öffnen.
 
-https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-manage-ontap-direct.html["Weitere Informationen zu dieser Option."]
+https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-manage-ontap-direct.html["Weitere Informationen zu dieser Option."]
 
 
 
@@ -81,7 +81,7 @@ Die folgenden Änderungen wurden mit der Version 3.9.24 des Connectors eingefüh
 
 Sie können jetzt Ihre lokalen ONTAP Cluster direkt erkennen, ohne einen Connector zu verwenden. Diese Option ermöglicht das Cluster Management nur über System Manager. In dieser Arbeitsumgebung können Sie keine BlueXP-Datenservices aktivieren.
 
-https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["Erfahren Sie mehr über diese Option zur Erkennung und Verwaltung"].
+https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["Erfahren Sie mehr über diese Option zur Erkennung und Verwaltung"].
 
 
 
@@ -89,7 +89,7 @@ https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.
 
 Für On-Premises-ONTAP-Cluster, die über einen Connector erkannt werden, zeigt die Standardansicht in BlueXP jetzt die FlexGroup Volumes, die über System Manager oder die ONTAP CLI erstellt wurden. Sie können diese Volumes auch verwalten, indem Sie sie klonen, ihre Einstellungen bearbeiten und löschen.
 
-image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-ontap-onprem/main/media/screenshot-flexgroup-volumes.png["Ein Screenshot, der ein FlexGroup-Volume auf der Seite „Volumes“ für ein ONTAP-Cluster vor Ort zeigt"]
+image:https://raw.githubusercontent.com/NetAppDocs/bluexp-ontap-onprem/main/media/screenshot-flexgroup-volumes.png["Ein Screenshot, der ein FlexGroup-Volume auf der Seite „Volumes“ für ein ONTAP-Cluster vor Ort zeigt"]
 
 BlueXP unterstützt das Erstellen von FlexGroup Volumes nicht. Zum Erstellen von FlexGroup Volumes müssen Sie weiterhin System Manager oder die CLI verwenden.
 
@@ -107,7 +107,7 @@ Mit der neuen Übersichtsseite möchten wir wichtige Details zu einem lokalen ON
 
 Sie können sich außerdem Details zur Integration mit anderen BlueXP Services anzeigen lassen, die Daten-Tiering, Datenreplizierung und Backups ermöglichen.
 
-image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-ontap-onprem/main/media/screenshot-overview.png["Ein Screenshot, der die Übersichtsseite für ein ONTAP-Cluster vor Ort anzeigt."]
+image:https://raw.githubusercontent.com/NetAppDocs/bluexp-ontap-onprem/main/media/screenshot-overview.png["Ein Screenshot, der die Übersichtsseite für ein ONTAP-Cluster vor Ort anzeigt."]
 
 
 
@@ -115,7 +115,7 @@ image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-ontap-onprem/ma
 
 Die Seite Volumes wurde neu gestaltet, um eine Zusammenfassung der Volumes in einem Cluster zu bieten. Die Zusammenfassung gibt Ihnen die Gesamtzahl der Volumes, die Menge der bereitgestellten Kapazität, genutzte und reservierte Kapazität sowie die Menge der Tiered-Daten an.
 
-image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-ontap-onprem/main/media/screenshot-volumes.png["Ein Screenshot, der die Volume-Seite für ein On-Prem ONTAP-Cluster zeigt"]
+image:https://raw.githubusercontent.com/NetAppDocs/bluexp-ontap-onprem/main/media/screenshot-volumes.png["Ein Screenshot, der die Volume-Seite für ein On-Prem ONTAP-Cluster zeigt"]
 
 
 
@@ -145,7 +145,7 @@ Diese erweiterte Ansicht ist als Vorschau für lokale ONTAP Cluster mit 9.10.0 o
 
 Sie haben jetzt die Möglichkeit, den Bestand Ihrer lokalen ONTAP Cluster sowie die zugehörigen Ablaufdaten der Hardware- und Serviceverträge anzuzeigen. Weitere Details zu den Clustern sind ebenfalls verfügbar.
 
-https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-view-cluster-info.html["Erfahren Sie, wie Sie diese wichtigen On-Premises-Cluster-Informationen anzeigen"]. Sie müssen ein NetApp Support Site Konto (NSS) für die Cluster besitzen, und die NSS-Zugangsdaten müssen an Ihr Cloud Manager Konto angehängt werden.
+https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-view-cluster-info.html["Erfahren Sie, wie Sie diese wichtigen On-Premises-Cluster-Informationen anzeigen"]. Sie müssen ein NetApp Support Site Konto (NSS) für die Cluster besitzen, und die NSS-Zugangsdaten müssen an Ihr Cloud Manager Konto angehängt werden.
 
 
 
