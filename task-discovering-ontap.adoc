@@ -121,6 +121,9 @@ Entdecken Sie Ihre lokalen ONTAP-Cluster auf der Leinwand in BlueXP. Wenn Sie di
 Wenn Sie diese Option auswählen, müssen Sie die Anmeldeinformationen nicht jedes Mal erneut eingeben, wenn Sie die Arbeitsumgebung öffnen. Diese Anmeldedaten sind nur mit Ihrem BlueXP Benutzer verknüpft. Sie werden nicht von anderen Personen in Ihrem Konto gespeichert.
 
 . Wählen Sie * Entdecken*.
++
+Wenn Sie keinen Connector haben und die IP-Adresse nicht über BlueXP erreichbar ist, werden Sie aufgefordert, einen Connector zu erstellen.
+
 
 
 .Ergebnis
