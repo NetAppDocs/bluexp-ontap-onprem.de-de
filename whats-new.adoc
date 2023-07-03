@@ -18,6 +18,18 @@ Erfahren Sie mehr über Neuerungen beim lokalen ONTAP Cluster-Management in Blue
 
 
 
+== 2 Juli 2023
+
+
+
+=== Cluster-Entdeckung von My Estate
+
+Sie können jetzt On-Premises-ONTAP-Cluster unter *Canvas > My estate* erkennen, indem Sie einen Cluster auswählen, den BlueXP basierend auf den ONTAP-Clustern vorentdeckt hat, die mit der E-Mail-Adresse für Ihre BlueXP-Anmeldung verknüpft sind.
+
+https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html#add-a-pre-discovered-cluster["Erfahren Sie auf der Seite My Estate, wie Sie Cluster erkennen"].
+
+
+
 == 4 Mai 2023
 
 
