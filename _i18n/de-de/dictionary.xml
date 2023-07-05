@@ -537,7 +537,6 @@
   <block id="8b88ed64b6b30080910756ab3a0ea719" category="paragraph">Beachten Sie Folgendes zu den lokalen ONTAP Clustern, die auf der Seite My Estate angezeigt werden:</block>
   <block id="06730fe7ddb260af67563763fb1cff3f" category="list-text">Die E-Mail-Adresse, mit der Sie sich bei BlueXP anmelden, muss einem registrierten NSS Konto (Full-Level NetApp Support Site) zugeordnet sein.</block>
   <block id="05df8b76be995f5a9cfa0f9805c5c671" category="list-text">Wenn Sie sich mit Ihrem NSS-Konto bei BlueXP anmelden und zur Seite „My Estate“ navigieren, verwendet BlueXP dieses NSS-Konto, um die mit dem Konto verknüpften Cluster zu finden.</block>
-  <block id="17579109afe537b92b0d58dc1b3a2261" category="list-text">Wenn Sie sich mit einem Cloud-Konto bei BlueXP anmelden und zur Seite „My Estate“ navigieren, werden Sie von BlueXP zur Bestätigung Ihrer E-Mail aufgefordert. Wenn diese E-Mail-Adresse mit einem NSS-Konto verknüpft ist, verwendet BlueXP diese Informationen, um die mit dem Konto verknüpften Cluster zu finden.</block>
   <block id="cf28359d03fa5d995d85df0a5ebb62c8" category="list-text">BlueXP zeigt nur die ONTAP Cluster an, die AutoSupport Meldungen erfolgreich an NetApp gesendet haben.</block>
   <block id="9e5b23122dc2a6feb6587ea531e0634e" category="list-text">Um die Bestandsliste zu aktualisieren, verlassen Sie die Seite „Mein Nachlass“, warten Sie 5 Minuten, und kehren Sie dann zu ihr zurück.</block>
   <block id="0c136b2a4c8e3fbb938288c9e135d82b" category="list-text">Wählen Sie *Mein Anwesen*.</block>
@@ -548,4 +547,5 @@
   <block id="f44b1e23b4e1566aa16d4b2b0be52eb8" category="paragraph"><block ref="f44b1e23b4e1566aa16d4b2b0be52eb8" category="inline-image-macro-rx" type="image"></block></block>
   <block id="eecdf85dabb12fb229d35075dd322550" category="list-text">Geben Sie das Passwort für das Admin-Benutzerkonto ein.</block>
   <block id="3f155fde095b56c33aa16ebcf24a5d94" category="doc">ONTAP-Cluster-Management vor Ort mit BlueXP</block>
+  <block id="9db4c476e2e5483cdbf8e71023278b72" category="list-text">Wenn Sie sich über ein Cloud-Konto oder eine föderierte Verbindung bei BlueXP anmelden und zur Seite „My Estate“ navigieren, werden Sie von BlueXP zur Bestätigung Ihrer E-Mail aufgefordert. Wenn diese E-Mail-Adresse mit einem NSS-Konto verknüpft ist, verwendet BlueXP diese Informationen, um die mit dem Konto verknüpften Cluster zu finden.</block>
 </blocks>
