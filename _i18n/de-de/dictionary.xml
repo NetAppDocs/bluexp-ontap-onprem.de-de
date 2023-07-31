@@ -525,7 +525,6 @@
   <block id="87377698a8dca305b9579a13060142f2" category="section-title">FlexGroup Volumes erstellen</block>
   <block id="14b044746cb87538e696ebd7cef86e8f" category="paragraph">Wenn Sie einen Cluster mit einem Connector managen, können Sie jetzt FlexGroup Volumes mit der BlueXP API erstellen.</block>
   <block id="ca513b668252beaae65808764fc2388f" category="inline-link">Erfahren Sie, wie Sie ein FlexGroup Volume erstellen</block>
-  <block id="6fbac88fa8db3a2a67d5495cb1dcacd2" category="list-text"><block ref="6fbac88fa8db3a2a67d5495cb1dcacd2" category="inline-link-rx"></block></block>
   <block id="bbcffd6476036994102e5ec1c5571f64" category="inline-link">Was ist ein FlexGroup Volume</block>
   <block id="a33a2b4a40f0a01a71b97f709ac14074" category="list-text"><block ref="a33a2b4a40f0a01a71b97f709ac14074" category="inline-link-rx"></block></block>
   <block id="ed36532cba007a185fa7e3557a16206a" category="list-text">Wählen Sie auf der Seite Bildschirm die lokale ONTAP-Arbeitsumgebung aus.</block>
@@ -556,4 +555,5 @@
   <block id="cdf14d2156528231a5dbd12ad5c95d3f" category="list-text">Ändern Sie die Spalten, die in der Tabelle angezeigt werden, indem Sie auswählen <block ref="b574dd55d604ddb721d869a0fc302007" category="inline-image-macro-rx" type="image"></block> Und wählen Sie dann die Spalten, die Sie anzeigen möchten.</block>
   <block id="348552521b849746260fe8d296d34c15" category="list-text">Managen Sie einen bestehenden Fall, indem Sie auswählen <block ref="566c029d89e7d5421080767a37bf443e" category="inline-image-macro-rx" type="image"></block> Und eine der verfügbaren Optionen auswählen:</block>
   <block id="bb6d5d351525342dd6b3cf4d15b6f298" category="list-text">*Fall schließen*: Geben Sie Einzelheiten darüber an, warum Sie den Fall schließen und wählen Sie *Fall schließen*.</block>
+  <block id="dfc9f0f0920c102b079fd1c513fccdde" category="list-text"><block ref="dfc9f0f0920c102b079fd1c513fccdde" category="inline-link-rx"></block></block>
 </blocks>
