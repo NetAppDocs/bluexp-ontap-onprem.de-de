@@ -19,10 +19,10 @@ Entfernen Sie eine lokale ONTAP-Arbeitsumgebung, wenn Sie sie nicht mehr über B
 Das Entfernen der Arbeitsumgebung hat keine Auswirkungen auf das ONTAP Cluster. Sie können sie jederzeit über BlueXP wiederentdecken.
 
 .Schritte
-. Doppelklicken Sie auf der Seite „Arbeitsfläche“ auf den Namen der On-Premises-ONTAP-Arbeitsumgebung.
-. Klicken Sie auf das Menüsymbol und wählen Sie *aus Arbeitsbereich entfernen*.
+. Wählen Sie auf der Seite Bildschirm die lokale ONTAP-Arbeitsumgebung aus.
+. Wählen Sie das Menüsymbol und dann *aus Arbeitsbereich entfernen*.
 +
 image:screenshot_remove_onprem.png["Ein Screenshot, der das Menü oben rechts auf der Seite und die Option Entfernen anzeigt."]
 
-. Klicken Sie zur Bestätigung auf *Entfernen*.
+. Wählen Sie *Entfernen*, um zu bestätigen.
 

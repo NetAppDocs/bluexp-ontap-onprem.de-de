@@ -18,6 +18,20 @@ Erfahren Sie mehr über Neuerungen beim lokalen ONTAP Cluster-Management in Blue
 
 
 
+== 30 Juli 2023
+
+
+
+=== FlexGroup Volumes erstellen
+
+Wenn Sie einen Cluster mit einem Connector managen, können Sie jetzt FlexGroup Volumes mit der BlueXP API erstellen.
+
+* https://docs.netapp.com/us-en/bluexp-automation/cm/wf_flexgroup_ontap_create_vol.html["Erfahren Sie, wie Sie ein FlexGroup Volume erstellen"^]
+* https://docs.netapp.com/us-en/ontap/flexgroup/definition-concept.html["Was ist ein FlexGroup Volume"^]
+
+
+
+
 == 2 Juli 2023
 
 

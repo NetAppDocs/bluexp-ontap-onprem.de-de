@@ -25,7 +25,7 @@ Einige System Manager-Funktionen werden von BlueXP nicht unterstützt.
 link:reference-limitations.html["Überprüfen Sie die Liste der Einschränkungen"].
 
 .Schritte
-. Doppelklicken Sie auf der Seite „Arbeitsfläche“ auf den Namen einer ONTAP-Arbeitsumgebung vor Ort.
+. Wählen Sie auf der Seite Bildschirm die lokale ONTAP-Arbeitsumgebung aus.
 +
 Das Symbol der Arbeitsumgebung identifiziert direkt erkannte Cluster:
 
