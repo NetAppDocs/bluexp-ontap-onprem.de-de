@@ -137,7 +137,7 @@ Wenn Sie eine CIFS-Freigabe bereitgestellt haben, erteilen Sie Benutzern oder Gr
 
 Die BlueXP API kann zur Erstellung von FlexGroup Volumes genutzt werden. Ein FlexGroup Volume ist ein Scale-out-Volume, das eine hohe Performance zusammen mit automatischer Lastverteilung bietet.
 
-* https://docs.netapp.com/us-en/bluexp-automation/cm/wf_flexgroup_ontap_create_vol.html["Erfahren Sie, wie Sie mit der API ein FlexGroup Volume erstellen"^]
+* https://docs.netapp.com/us-en/bluexp-automation/cm/wf_onprem_flexgroup_ontap_create_vol.html["Erfahren Sie, wie Sie mit der API ein FlexGroup Volume erstellen"^]
 * https://docs.netapp.com/us-en/ontap/flexgroup/definition-concept.html["Was ist ein FlexGroup Volume"^]
 
 
