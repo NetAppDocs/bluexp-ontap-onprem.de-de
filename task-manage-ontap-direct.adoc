@@ -4,7 +4,7 @@ permalink: task-manage-ontap-direct.html
 keywords: direct discovery, direct, system manager, local, local discovery 
 summary: Wenn Sie Ihren lokalen ONTAP-Cluster direkt ohne Connector entdeckt haben, können Sie mit System Manager in die Arbeitsumgebung eingeben, in der das Cluster verwaltet werden soll. 
 ---
-= Managen Sie lokale ONTAP-Cluster, die direkt entdeckt wurden
+= Management von Clustern, die direkt ermittelt wurden
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
@@ -16,7 +16,7 @@ summary: Wenn Sie Ihren lokalen ONTAP-Cluster direkt ohne Connector entdeckt hab
 [role="lead"]
 Wenn Sie Ihren lokalen ONTAP-Cluster direkt ohne Connector entdeckt haben, können Sie die Arbeitsumgebung öffnen, in der das Cluster gemanagt werden soll, mit System Manager.
 
-.Anforderungen
+.Bevor Sie beginnen
 Der Computer, den Sie für den Zugriff auf die BlueXP-Konsole verwenden, muss über eine Netzwerkverbindung mit dem lokalen ONTAP-Cluster verfügen, ähnlich wie Sie Verbindungen zu anderen Ressourcen in Ihrem privaten Netzwerk bereitstellen würden.
 
 .Einschränkungen

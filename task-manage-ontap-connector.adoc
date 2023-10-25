@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: task-manage-ontap-connector.html 
 keywords: system manager, advanced view, access system manager, load system manager, use system manager, flexgroup, flexgroup volumes, create flexgroup volume 
-summary: Wenn Sie das erweiterte Management eines ONTAP On-Premises-Clusters durchführen müssen, können Sie dazu ONTAP System Manager verwenden. Hierbei handelt es sich um eine Managementoberfläche, die zusammen mit einem ONTAP System bereitgestellt wird. Die System Manager Schnittstelle ist direkt in BlueXP integriert, sodass Sie BlueXP nicht für erweitertes Management verlassen müssen. 
+summary: Wenn Sie ein lokales ONTAP-Cluster mithilfe eines Connectors erkannt haben, können Sie Volumes aus der Standardansicht erstellen, System Manager in der erweiterten Ansicht verwenden und BlueXP Datenservices aktivieren. 
 ---
-= Managen Sie lokale ONTAP-Cluster, die über einen Connector erkannt wurden
+= Verwalten von Clustern, die mit einem Connector erkannt wurden
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
@@ -128,7 +128,7 @@ Dann wird das neue Volume zur Arbeitsumgebung hinzugefügt.
 
 Wenn außerdem eine sekundäre Aktion in der Vorlage implementiert wird, beispielsweise durch die Aktivierung von BlueXP Backup und Recovery auf dem Volume, wird ebenfalls ausgeführt.
 
-.Nachdem Sie fertig sind
+.Was kommt als Nächstes?
 Wenn Sie eine CIFS-Freigabe bereitgestellt haben, erteilen Sie Benutzern oder Gruppen Berechtigungen für die Dateien und Ordner, und überprüfen Sie, ob diese Benutzer auf die Freigabe zugreifen und eine Datei erstellen können.
 
 
@@ -143,7 +143,7 @@ Die BlueXP API kann zur Erstellung von FlexGroup Volumes genutzt werden. Ein Fle
 
 
 
-== ONTAP mit der erweiterten Ansicht verwalten
+== Administration von ONTAP mithilfe der erweiterten Ansicht (System Manager)
 
 Wenn Sie erweitertes Management eines lokalen ONTAP-Clusters durchführen möchten, können Sie dies mit ONTAP System Manager durchführen. Dabei handelt es sich um eine Managementoberfläche, die zusammen mit einem ONTAP System bereitgestellt wird. Die System Manager Schnittstelle ist direkt in BlueXP integriert, sodass Sie BlueXP nicht für erweitertes Management verlassen müssen.
 
@@ -195,7 +195,7 @@ link:reference-limitations.html["Überprüfen Sie die Liste der Einschränkungen
 
 
 
-=== Verwenden der erweiterten Ansicht (System Manager)
+=== Verwenden Sie die erweiterte Ansicht
 
 Öffnen Sie eine lokale ONTAP-Arbeitsumgebung, und wählen Sie die Option Erweiterte Ansicht.
 

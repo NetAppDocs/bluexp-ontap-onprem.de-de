@@ -23,7 +23,7 @@ sidebar:
     entries:
     - title: ONTAP-Cluster-Management vor Ort
       url: "/concept-onprem-ontap.html"
-    - title: ONTAP Cluster erkennen
+    - title: Erkennen von ONTAP Clustern vor Ort
       url: "/task-discovering-ontap.html"
   - title: Management von lokalen ONTAP-Clustern
     entries:
@@ -33,7 +33,7 @@ sidebar:
       url: "/task-manage-ontap-connector.html"
     - title: Cluster-Informationen und Vertragsdetails
       url: "/task-view-cluster-info.html"
-    - title: Optimierung von Clustern mit Digital Advisor
+    - title: Cluster mithilfe des digitalen Beraters von BlueXP optimieren
       url: "/concept-aiq-digital-advisor.html"
     - title: Entfernen einer lokalen ONTAP-Arbeitsumgebung
       url: "/task-remove-on-prem.html"
