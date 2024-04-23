@@ -34,15 +34,13 @@ Nachdem Sie den lokalen ONTAP-Cluster von BlueXP mithilfe eines Connectors erkan
 
 Mit BlueXP können Sie NFS- oder CIFS-Volumes auf vorhandenen Aggregaten erstellen. Neue Aggregate können auf einem lokalen ONTAP-Cluster nicht über die BlueXP-Standardansicht erstellt werden. Zum Erstellen von Aggregaten müssen Sie die Ansicht „Erweitert“ verwenden.
 
-Mit der BlueXP Funktion „Templates“ können Sie Volumes erstellen, die für bestimmte Workloads, wie Datenbanken oder Streaming-Services, optimiert sind. Wenn Ihr Unternehmen Volume-Vorlagen erstellt hat, die Sie verwenden sollten, folgen Sie den Anweisungen <<Erstellen Sie Volumes aus Vorlagen,Diesen Schritten ausführen>>.
-
 .Schritte
 . Wählen Sie im Navigationsmenü die Option *Storage > Canvas* aus.
 . Wählen Sie auf der Seite Bildschirm den On-Premises-ONTAP-Cluster aus, auf dem Sie Volumes bereitstellen möchten.
 . Wählen Sie *Volumes > Volume Hinzufügen*.
 . Befolgen Sie die Schritte im Assistenten, um das Volume zu erstellen.
 +
-.. *Details, Schutz & Tags*: Geben Sie Details zum Volume wie Name und Größe ein, wählen Sie eine Snapshot-Richtlinie aus und geben Sie ggf. Volume-Tags an.
+.. *Details, Protection, & Tags*: Geben Sie Details über das Volume wie dessen Name und Größe ein und wählen Sie eine Snapshot-Richtlinie aus.
 +
 Einige der Felder auf dieser Seite sind selbsterklärend. In der folgenden Liste werden die Felder beschrieben, für die Sie möglicherweise Hinweise benötigen:
 
@@ -80,56 +78,6 @@ In der folgenden Liste werden die Felder beschrieben, für die Sie möglicherwei
 
 
 
-
-
-
-=== Erstellen Sie Volumes aus Vorlagen
-
-Wenn Ihr Unternehmen On-Premises ONTAP Volume-Vorlagen erstellt hat, damit Sie Volumes implementieren können, die für die Workload-Anforderungen bestimmter Applikationen optimiert sind, befolgen Sie diese Schritte in diesem Abschnitt.
-
-Die Vorlage sollte Ihnen die Arbeit erleichtern, da bestimmte Volume-Parameter bereits in der Vorlage definiert werden, z. B. Festplattentyp, -Größe, -Protokoll, -Snapshot-Richtlinie usw. Wenn ein Parameter bereits vordefiniert ist, können Sie einfach zum nächsten Volume-Parameter springen.
-
-
-NOTE: NFS- oder CIFS-Volumes können nur mit Vorlagen erstellt werden.
-
-.Schritte
-. Wählen Sie auf der Seite Bildschirm den On-Premises-ONTAP-Cluster aus, auf dem Sie Volumes bereitstellen möchten.
-. Wählen Sie image:screenshot_gallery_options.gif["Ein Symbol mit drei Punkten."] > *Volumen Aus Vorlage Hinzufügen*.
-+
-image:screenshot_template_add_vol_ontap.png["Ein Screenshot, der zeigt, wie ein neues Volume aus einer Vorlage hinzugefügt wird."]
-
-. Wählen Sie auf der Seite _Select Template_ die Vorlage aus, die Sie zum Erstellen des Volumes verwenden möchten, und wählen Sie *Next* aus.
-+
-image:screenshot_select_template_ontap.png["Ein Screenshot der verfügbaren Anwendungsvorlagen."]
-
-+
-Die Seite _Define Parameters_ wird angezeigt.
-
-+
-image:screenshot_define_ontap_vol_from_template.png["Ein Screenshot mit einer leeren Vorlage, die Sie ausfüllen müssen, um ein Volume zu erstellen."]
-
-+
-*Hinweis:* Sie können das Kontrollkästchen *nur-Parameter anzeigen* aktivieren, um alle Felder anzuzeigen, die von der Vorlage gesperrt wurden, wenn Sie die Werte für diese Parameter sehen möchten. Standardmäßig werden diese vordefinierten Felder ausgeblendet. Es werden nur die Felder angezeigt, die Sie ausfüllen müssen.
-
-. Im Bereich _context_ wird die Arbeitsumgebung mit dem Namen der Arbeitsumgebung ausgefüllt, mit der Sie begonnen haben. Sie müssen das *Storage VM* und *Aggregat* auswählen, wo das Volume erstellt wird.
-. Fügen Sie Werte für alle Parameter hinzu, die nicht hartcodiert sind.
-+
-<<Volumes erstellen,Erfahren Sie mehr über die Parameter, die Sie zum Erstellen des Volumes benötigen>>.
-
-. Wählen Sie *Run Template*, nachdem Sie alle für dieses Volume benötigten Parameter definiert haben.
-
-
-.Ergebnis
-BlueXP stellt das Volume bereit und zeigt eine Seite an, so dass Sie den Fortschritt sehen können.
-
-image:screenshot_template_creating_resource_ontap.png["Ein Screenshot zeigt den Fortschritt der Erstellung Ihres neuen Volumes aus der Vorlage."]
-
-Dann wird das neue Volume zur Arbeitsumgebung hinzugefügt.
-
-Wenn außerdem eine sekundäre Aktion in der Vorlage implementiert wird, beispielsweise durch die Aktivierung von BlueXP Backup und Recovery auf dem Volume, wird ebenfalls ausgeführt.
-
-.Was kommt als Nächstes?
-Wenn Sie eine CIFS-Freigabe bereitgestellt haben, erteilen Sie Benutzern oder Gruppen Berechtigungen für die Dateien und Ordner, und überprüfen Sie, ob diese Benutzer auf die Freigabe zugreifen und eine Datei erstellen können.
 
 
 
