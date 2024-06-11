@@ -76,7 +76,7 @@ Wenn kalte Daten in die Cloud verschoben werden sollen, sollten Sie die Anforder
 
 +
 ** https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["Erfahren Sie mehr über Steckverbinder"^]
-** https://docs.netapp.com/us-en/bluexp-setup-admin/task-managing-connectors.html["Erfahren Sie, wie Sie zwischen mehreren Anschlüssen wechseln"^]
+** https://docs.netapp.com/us-en/bluexp-setup-admin/task-manage-multiple-connectors.html["Erfahren Sie, wie Sie zwischen mehreren Anschlüssen wechseln"^]
 ** https://docs.netapp.com/us-en/bluexp-tiering/concept-cloud-tiering.html["Weitere Informationen zu BlueXP Tiering"^]
 
 
