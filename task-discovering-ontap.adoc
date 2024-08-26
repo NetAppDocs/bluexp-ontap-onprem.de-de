@@ -80,7 +80,7 @@ Wenn kalte Daten in die Cloud verschoben werden sollen, sollten Sie die Anforder
 ** https://docs.netapp.com/us-en/bluexp-tiering/concept-cloud-tiering.html["Weitere Informationen zu BlueXP Tiering"^]
 
 
-* Der Connector-Host muss ausgehende Verbindungen über Port 443 (HTTPS) zulassen, und das ONTAP-Cluster muss eingehenden HTTP-Zugriff über Port 443 zulassen.
+* Der Connector-Host muss ausgehende Verbindungen über Port 443 (HTTPS) zulassen, und das ONTAP-Cluster muss eingehenden HTTP-Zugriff über Port 443 auf die Cluster-Management-LIF erlauben.
 +
 Wenn sich der Connector in der Cloud befindet, ist die gesamte ausgehende Kommunikation durch die vordefinierte Sicherheitsgruppe zulässig.
 
