@@ -149,9 +149,9 @@ link:reference-limitations.html["Überprüfen Sie die Liste der Einschränkungen
 
 .Schritte
 . Wählen Sie auf der Seite Bildschirm den On-Premises-ONTAP-Cluster aus, auf dem Sie Volumes bereitstellen möchten.
-. Wählen Sie oben rechts *zur erweiterten Ansicht wechseln*.
+. Suchen Sie im rechten Bereich unter *Services* *System Manager* und wählen Sie *Open* aus.
 +
-image:screenshot-advanced-view.png["Ein Screenshot einer lokalen ONTAP Arbeitsumgebung, in der die Option zur erweiterten Ansicht wechseln angezeigt wird."]
+image:screenshot-advanced-view.png["Ein Screenshot aus dem BlueXP  Bildschirm zeigt die Liste der verfügbaren Services nach der Auswahl einer lokalen ONTAP Arbeitsumgebung."]
 
 . Wenn die Bestätigungsmeldung angezeigt wird, lesen Sie sie durch und wählen Sie *Schließen*.
 . Verwenden Sie System Manager zum Verwalten von ONTAP.

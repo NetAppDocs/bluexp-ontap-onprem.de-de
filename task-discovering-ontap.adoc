@@ -130,7 +130,7 @@ Erkennen Sie ein lokales ONTAP-Cluster in BlueXP, indem Sie die Cluster-Manageme
 . Geben Sie auf der Seite _Discover_ die Cluster-Management-IP-Adresse und das Passwort für das Admin-Benutzerkonto ein.
 . Wenn Sie den Cluster direkt erkennen (ohne Connector), können Sie *Save the credentials* auswählen.
 +
-Wenn Sie diese Option auswählen, müssen Sie die Anmeldeinformationen nicht jedes Mal erneut eingeben, wenn Sie die Arbeitsumgebung öffnen. Diese Anmeldedaten stehen nur Ihren BlueXP Benutzeranmeldeinformationen zur Verfügung. Sie werden nicht für die Verwendung durch Dritte im BlueXP Konto gespeichert.
+Wenn Sie diese Option auswählen, müssen Sie die Anmeldeinformationen nicht jedes Mal erneut eingeben, wenn Sie die Arbeitsumgebung öffnen. Diese Anmeldedaten stehen nur Ihren BlueXP Benutzeranmeldeinformationen zur Verfügung. Sie werden nicht für die Verwendung durch Dritte in der BlueXP  Organisation gespeichert.
 
 . Wählen Sie * Entdecken*.
 +

@@ -18,6 +18,16 @@ Bekannte Einschränkungen identifizieren Plattformen, Geräte oder Funktionen, d
 
 
 
+== ASA r2-Systeme
+
+Nachdem Sie ein NetApp ASA r2-System erkannt und die Arbeitsumgebung geöffnet haben, werden Sie direkt zu System Manager weitergeleitet.
+
+Für ASA r2 Systeme sind keine anderen Managementoptionen verfügbar. Sie können die Standardansicht nicht verwenden und BlueXP Services nicht aktivieren.
+
+https://docs.netapp.com/us-en/asa-r2/index.html["Erfahren Sie mehr über ASA r2-Systeme"^]
+
+
+
 == Nicht unterstützte Cluster
 
 On-Premises-ONTAP-Cluster, die mit SAML-Authentifizierung konfiguriert sind, werden von BlueXP nicht unterstützt.
