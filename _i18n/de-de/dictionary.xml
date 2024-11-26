@@ -45,7 +45,6 @@
   <block id="696fbf3ecd0e89c737f9c5b7adddfb8e" category="section-title">Unterstützte ONTAP-Systeme</block>
   <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">Kosten</block>
   <block id="f7ba76d5c9beab0576f118a6254843e9" category="section-title">18. September 2022</block>
-  <block id="440be74a67502f9c3d55890782329328" category="paragraph">Die folgenden Änderungen wurden mit der Version 3.9.22 des Connectors eingeführt.</block>
   <block id="c8328d07fc05c4708c68f547ce6f5e77" category="section-title">Neue Übersichtsseite</block>
   <block id="8e41db9b51f790909ef80a064153f722" category="paragraph">Mit der neuen Übersichtsseite möchten wir wichtige Details zu einem lokalen ONTAP Cluster bereitstellen. Beispielsweise können Sie jetzt Details wie Storage-Effizienz, Kapazitätsverteilung und Systeminformationen anzeigen.</block>
   <block id="fba766c98683be4af93f93b5d7909f1e" category="inline-image-macro">Ein Screenshot, der die Übersichtsseite für ein ONTAP-Cluster vor Ort anzeigt.</block>
@@ -53,7 +52,6 @@
   <block id="99cbfcbab5c608668044fc3849d8db46" category="paragraph">Die Seite Volumes wurde neu gestaltet, um eine Zusammenfassung der Volumes in einem Cluster zu bieten. Die Zusammenfassung gibt Ihnen die Gesamtzahl der Volumes, die Menge der bereitgestellten Kapazität, genutzte und reservierte Kapazität sowie die Menge der Tiered-Daten an.</block>
   <block id="2f82cdfc06b6747c85937b5cceabaaee" category="inline-image-macro">Ein Screenshot, der die Volume-Seite für ein On-Prem ONTAP-Cluster zeigt</block>
   <block id="f8b475a3fefebada77a30229238d0a1a" category="section-title">7. Juni 2022</block>
-  <block id="4f03a5c652641013d1e43811930f5769" category="paragraph">Die folgende Änderung wurde mit der Version 3.9.19 des Connectors eingeführt.</block>
   <block id="ffe3ec3b5faef58a758d9449470882a0" category="section-title">Neue Erweiterte Ansicht</block>
   <block id="5549a52d6578bcb66138c7319ef4ea11" category="paragraph">Wenn Sie das erweiterte Management eines ONTAP On-Premises-Clusters durchführen müssen, können Sie dazu ONTAP System Manager verwenden. Hierbei handelt es sich um eine Managementoberfläche, die zusammen mit einem ONTAP System bereitgestellt wird. Die System Manager Schnittstelle ist direkt in den Cloud Manager integriert, sodass Sie Cloud Manager nicht für erweitertes Management verlassen müssen.</block>
   <block id="99721ad2e6d601b2966a9d9e1c7de770" category="paragraph">Diese erweiterte Ansicht ist als Vorschau für lokale ONTAP Cluster mit 9.10.0 oder höher verfügbar. Wir planen, diese Erfahrungen weiter zu verbessern und in zukünftigen Versionen Verbesserungen hinzuzufügen. Bitte senden Sie uns Ihr Feedback über den Product-Chat.</block>
@@ -127,7 +125,6 @@
   <block id="f0ec06c8888b911820be6e1fcc689c0b" category="list-text">Unabhängig davon, ob Sie einen Connector bereitstellen, um Ihre Cluster zu erkennen und zu verwalten.</block>
   <block id="0d29d27599c2af161506dbd9dbafba3f" category="paragraph">Sie können den Connector in der Cloud oder vor Ort installieren.</block>
   <block id="83ec139c80a3d5b2f11f1a94eed47cd2" category="section-title">Bis 4. Dezember 2022</block>
-  <block id="612111851a1740ab34a9d35045621084" category="paragraph">Die folgenden Änderungen wurden mit der Version 3.9.24 des Connectors eingeführt.</block>
   <block id="336404297eaddf0051e1d62c3d3bb48e" category="inline-link">Erfahren Sie mehr über diese Option zur Erkennung und Verwaltung</block>
   <block id="ee1ef6cf0f3971b44eb2abcac958fb8d" category="section-title">FlexGroup Volumes</block>
   <block id="2907843476579cb2696e8e0e783a2a07" category="inline-image-macro">Ein Screenshot, der ein FlexGroup-Volume auf der Seite „Volumes“ für ein ONTAP-Cluster vor Ort zeigt</block>
@@ -540,6 +537,8 @@
   <block id="f2fba5567ec0d8ae5addf04c960ba6d0" category="list-text">Die Erkennung von ASA r2-Systemen wird nicht unterstützt, wenn BlueXP  im privaten Modus verwendet wird.</block>
   <block id="62bd7572081df25dd3f1f52151883c4a" category="inline-link">Weitere Informationen zu BlueXP Implementierungsmodi</block>
   <block id="d3342e15149bfef7fd9289d7025e506e" category="list-text"><block ref="d3342e15149bfef7fd9289d7025e506e" category="inline-link-rx"></block></block>
-  <block id="4f59dac344ae97a32d47fe32ee94249f" category="list-text">Sie können NetApp ASA r2-Systeme in BlueXP  erkennen, wenn Sie BlueXP  im Standardmodus oder im eingeschränkten Modus verwenden. Die Erkennung von ASA r2-Systemen wird nicht unterstützt, wenn BlueXP  im privaten Modus verwendet wird.</block>
   <block id="0c02bcea354671c5372f06a37c547a7d" category="paragraph">Sie können jetzt NetApp ASA r2-Systeme in BlueXP  erkennen, wenn Sie BlueXP  im Standardmodus oder im eingeschränkten Modus verwenden. Nachdem Sie ein NetApp ASA r2-System erkannt und die Arbeitsumgebung geöffnet haben, werden Sie direkt zu System Manager weitergeleitet.</block>
+  <block id="613fbbb3f2dbf238c8527a537252e8ed" category="doc">Unterstützung für ASA r2-Systeme mit Private Mode</block>
+  <block id="0d9e2244b8fb5d13651efe34b9723803" category="paragraph">Sie können jetzt NetApp ASA r2-Systeme erkennen, wenn Sie BlueXP  im privaten Modus verwenden. Diese Unterstützung ist ab der 3.9.46 Private Mode-Version von BlueXP  verfügbar.</block>
+  <block id="d415b73567ff8e090cdf21c20afeaa64" category="section-title">Bis 26. November 2024</block>
 </blocks>

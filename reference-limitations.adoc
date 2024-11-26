@@ -20,12 +20,9 @@ Bekannte Einschränkungen identifizieren Plattformen, Geräte oder Funktionen, d
 
 == Einschränkungen in Bezug auf ASA r2-Systeme
 
-* Sie können NetApp ASA r2-Systeme in BlueXP  erkennen, wenn Sie BlueXP  im Standardmodus oder im eingeschränkten Modus verwenden. Die Erkennung von ASA r2-Systemen wird nicht unterstützt, wenn BlueXP  im privaten Modus verwendet wird.
-* Nachdem Sie ein NetApp ASA r2-System erkannt und die Arbeitsumgebung geöffnet haben, werden Sie direkt zu System Manager weitergeleitet.
-+
+Nachdem Sie ein NetApp ASA r2-System erkannt und die Arbeitsumgebung geöffnet haben, werden Sie direkt zu System Manager weitergeleitet.
+
 Für ASA r2 Systeme sind keine anderen Managementoptionen verfügbar. Sie können die Standardansicht nicht verwenden und BlueXP Services nicht aktivieren.
-
-
 
 https://docs.netapp.com/us-en/asa-r2/index.html["Erfahren Sie mehr über ASA r2-Systeme"^]
 
