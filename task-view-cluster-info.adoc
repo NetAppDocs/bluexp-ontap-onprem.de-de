@@ -16,26 +16,4 @@ summary: Das Digital Wallet von BlueXP ermöglicht Ihnen die Anzeige von Vertrag
 [role="lead"]
 Das Digital Wallet von BlueXP ermöglicht Ihnen die Anzeige von Vertragsdetails zu jedem Ihrer lokalen ONTAP Cluster. Wenn Sie in BlueXP noch keinen Cluster gefunden haben, können Sie das auch aus dem Digital Wallet heraus tun.
 
-.Bevor Sie beginnen
-Das Digital Wallet von BlueXP zeigt Details zu den lokalen ONTAP Clustern an, die Sie als Arbeitsumgebung erkannt haben oder die mit einem zu BlueXP hinzugefügten NetApp Support Site Konto verknüpft sind.
-
-.Schritte
-. Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
-. Wählen Sie *On-Premise ONTAP*.
-+
-Wenn Sie dazu aufgefordert werden, zuerst die Zugangsdaten für Ihr NSS Konto (NetApp Support Site) einzugeben, geben Sie diese in das Support Dashboard ein. Nachdem Sie das Konto hinzugefügt haben, werden die in diesem Konto enthaltenen Cluster angezeigt.
-
-+
-Das Ablaufdatum von Softwareverträgen und Hardwareverträgen wird für die einzelnen Cluster in der Zeile angezeigt.
-
-+
-image:screenshot_digital_wallet_onprem_main.png["Ein Screenshot, wie die Cluster-Details erweitert werden, sodass Sie Informationen zu Cluster-Lizenzen anzeigen können."]
-
-. Wenn Sie einen Cluster noch nicht als Arbeitsumgebung erkannt haben, wählen Sie *Discover* aus, und folgen Sie den Anweisungen.
-+
-Nachdem Sie ein Cluster erkannt haben, steht es als Arbeitsumgebung in BlueXP zur Verfügung, sodass Sie es managen können.
-
-
-
-.Verwandter Link
 https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-on-prem-clusters.html["Erfahren Sie mehr über das Management der Lizenzen für lokale ONTAP Cluster aus der Digital Wallet von BlueXP"^]
