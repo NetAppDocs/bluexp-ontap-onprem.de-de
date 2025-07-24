@@ -16,4 +16,7 @@ summary: Das Digital Wallet von BlueXP ermöglicht Ihnen die Anzeige von Vertrag
 [role="lead"]
 Das Digital Wallet von BlueXP ermöglicht Ihnen die Anzeige von Vertragsdetails zu jedem Ihrer lokalen ONTAP Cluster. Wenn Sie in BlueXP noch keinen Cluster gefunden haben, können Sie das auch aus dem Digital Wallet heraus tun.
 
+.Erforderliche BlueXP -Rolle:
+Organisationsadministrator oder Ordner- oder Projektadministrator. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Erfahren Sie mehr über BlueXP -Zugriffsrollen."^]
+
 https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-on-prem-clusters.html["Erfahren Sie mehr über das Management der Lizenzen für lokale ONTAP Cluster aus der Digital Wallet von BlueXP"^]

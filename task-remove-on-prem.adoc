@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task-remove-on-prem.html 
-keywords: ontap, cluster, remove, delete, remove ontap cluster, remove onprem, delete cluster, delete working environment, remove working environment 
+keywords: ontap, cluster, remove, delete, remove ontap cluster, remove onprem, delete cluster, delete working environment, remove working environment, storage admin 
 summary: Entfernen Sie eine lokale ONTAP-Arbeitsumgebung, wenn Sie sie nicht mehr über BlueXP managen möchten. 
 ---
 = Entfernen einer lokalen ONTAP-Arbeitsumgebung
@@ -15,6 +15,9 @@ summary: Entfernen Sie eine lokale ONTAP-Arbeitsumgebung, wenn Sie sie nicht meh
 
 [role="lead"]
 Entfernen Sie eine lokale ONTAP-Arbeitsumgebung, wenn Sie sie nicht mehr über BlueXP managen möchten.
+
+.Erforderliche BlueXP -Rolle:
+Organisationsadministrator, Ordner- oder Projektadministrator oder Speicheradministrator. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Erfahren Sie mehr über BlueXP -Zugriffsrollen."^]
 
 Das Entfernen der Arbeitsumgebung hat keine Auswirkungen auf das ONTAP Cluster. Sie können sie jederzeit über BlueXP wiederentdecken.
 

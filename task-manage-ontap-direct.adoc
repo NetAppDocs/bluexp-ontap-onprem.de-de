@@ -14,7 +14,10 @@ summary: Wenn Sie Ihren lokalen ONTAP-Cluster direkt ohne Connector entdeckt hab
 
 
 [role="lead"]
-Wenn Sie Ihren lokalen ONTAP-Cluster direkt ohne Connector entdeckt haben, können Sie die Arbeitsumgebung öffnen, in der das Cluster gemanagt werden soll, mit System Manager.
+Wenn Sie Ihren lokalen ONTAP Cluster direkt ohne Verwendung eines Connectors ermittelt haben, können Sie die Arbeitsumgebung öffnen, um den Cluster mithilfe des ONTAP System Managers zu verwalten.
+
+.Erforderliche BlueXP -Rolle:
+Organisationsadministrator, Ordner- oder Projektadministrator, Speicheradministrator oder Systemintegritätsspezialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Erfahren Sie mehr über BlueXP -Zugriffsrollen."^]
 
 .Bevor Sie beginnen
 Der Computer, den Sie für den Zugriff auf die BlueXP-Konsole verwenden, muss über eine Netzwerkverbindung mit dem lokalen ONTAP-Cluster verfügen, ähnlich wie Sie Verbindungen zu anderen Ressourcen in Ihrem privaten Netzwerk bereitstellen würden.
@@ -34,7 +37,7 @@ image:screenshot-direct-discovery-we.png["Ein Screenshot des Symbols für die Ar
 
 . Geben Sie bei der entsprechenden Aufforderung Ihre ONTAP-Anmeldedaten ein.
 +
-Sie werden aufgefordert, sich bei jedem Öffnen der Arbeitsumgebung mit Ihren ONTAP-Anmeldedaten anzumelden, wenn Sie die Anmeldedaten nicht speichern. Sie haben die Möglichkeit, die Anmeldeinformationen zu speichern, damit Sie sie nicht jedes Mal eingeben müssen. Wenn Sie diese Option verwenden, werden die Anmeldeinformationen ausschließlich Ihrem BlueXP-Benutzer zugeordnet. Sie werden nicht von anderen Personen in Ihrem Konto gespeichert.
+Sie werden bei jedem Öffnen der Arbeitsumgebung aufgefordert, sich mit Ihren ONTAP -Anmeldeinformationen anzumelden, sofern Sie diese nicht speichern. Sie können die Anmeldeinformationen speichern, um sie nicht jedes Mal erneut eingeben zu müssen. Sie können diese Anmeldeinformationen auf der Seite „Benutzeranmeldeinformationen“ verwalten. In einigen Fällen hat Ihr BlueXP Administrator (Organisationsadministratorrolle) diese Option möglicherweise deaktiviert und fordert Sie auf, Ihre Anmeldeinformationen jedes Mal erneut einzugeben.
 
 +
 image:screenshot-credentials.png["In einem Screenshot, der die Eingabeaufforderung angezeigt wird, um den Benutzernamen und das Passwort für ein ONTAP Cluster einzugeben."]

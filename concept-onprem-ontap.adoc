@@ -21,7 +21,7 @@ BlueXP kann die ONTAP Cluster erkennen, die auf All Flash FAS/FAS Controllern un
 == Funktionen
 
 * Managen Sie NFS- und CIFS-Volumes
-* Erweitertes Management mit ONTAP System Manager
+* Zugriff auf den ONTAP System Manager für jeden verwalteten Cluster über BlueXP
 * Überwachung von Zustand und Performance mit BlueXP-Analyse und Kontrolle
 * BlueXP Services ermöglichen Datenreplizierung, Backup, Scan, Klassifizierung und Tiering von Daten
 * Statusinformationen zu Hardware- und Softwareverträgen finden Sie im BlueXP Digital Wallet
@@ -35,7 +35,7 @@ Ein Preis könnte damit verbunden sein, aber es hängt von folgenden Faktoren ab
 
 * Unabhängig davon, ob Sie einen Connector bereitstellen, um Ihre Cluster zu erkennen und zu verwalten.
 +
-Sie können den Connector in der Cloud oder vor Ort installieren.
+Sie können den Connector in der Cloud oder vor Ort installieren. Bei der Installation eines Connectors in der Cloud fallen Kosten an.
 
 * Egal, ob Sie BlueXP Services wie Backup und Recovery, Tiering und Klassifizierung nutzen.
 
